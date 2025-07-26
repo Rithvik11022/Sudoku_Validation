@@ -1,0 +1,2627 @@
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 41 to row 50 at time 02:23:54
+Thread 4 checks row 41 at time 02:23:54 and finds it valid
+Thread 4 checks row 42 at time 02:23:54 and finds it valid
+Thread 4 checks row 43 at time 02:23:54 and finds it valid
+Thread 4 checks row 44 at time 02:23:54 and finds it valid
+Thread 4 checks row 45 at time 02:23:54 and finds it valid
+Thread 4 checks row 46 at time 02:23:54 and finds it valid
+Thread 4 checks row 47 at time 02:23:54 and finds it valid
+Thread 4 checks row 48 at time 02:23:54 and finds it valid
+Thread 4 checks row 49 at time 02:23:54 and finds it valid
+Thread 4 checks row 50 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 21 to row 30 at time 02:23:54
+Thread 3 checks row 21 at time 02:23:54 and finds it valid
+Thread 3 checks row 22 at time 02:23:54 and finds it valid
+Thread 3 checks row 23 at time 02:23:54 and finds it valid
+Thread 3 checks row 24 at time 02:23:54 and finds it valid
+Thread 3 checks row 25 at time 02:23:54 and finds it valid
+Thread 3 checks row 26 at time 02:23:54 and finds it valid
+Thread 3 checks row 27 at time 02:23:54 and finds it valid
+Thread 3 checks row 28 at time 02:23:54 and finds it valid
+Thread 3 checks row 29 at time 02:23:54 and finds it valid
+Thread 3 checks row 30 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 31 to row 40 at time 02:23:54
+Thread 5 checks row 31 at time 02:23:54 and finds it valid
+Thread 5 checks row 32 at time 02:23:54 and finds it valid
+Thread 5 checks row 33 at time 02:23:54 and finds it valid
+Thread 5 checks row 34 at time 02:23:54 and finds it valid
+Thread 5 checks row 35 at time 02:23:54 and finds it valid
+Thread 5 checks row 36 at time 02:23:54 and finds it valid
+Thread 5 checks row 37 at time 02:23:54 and finds it valid
+Thread 5 checks row 38 at time 02:23:54 and finds it valid
+Thread 5 checks row 39 at time 02:23:54 and finds it valid
+Thread 5 checks row 40 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 1 to row 10 at time 02:23:54
+Thread 1 checks row 1 at time 02:23:54 and finds it valid
+Thread 1 checks row 2 at time 02:23:54 and finds it valid
+Thread 1 checks row 3 at time 02:23:54 and finds it valid
+Thread 1 checks row 4 at time 02:23:54 and finds it valid
+Thread 1 checks row 5 at time 02:23:54 and finds it valid
+Thread 1 checks row 6 at time 02:23:54 and finds it valid
+Thread 1 checks row 7 at time 02:23:54 and finds it valid
+Thread 1 checks row 8 at time 02:23:54 and finds it valid
+Thread 1 checks row 9 at time 02:23:54 and finds it valid
+Thread 1 checks row 10 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 11 to row 20 at time 02:23:54
+Thread 2 checks row 11 at time 02:23:54 and finds it valid
+Thread 2 checks row 12 at time 02:23:54 and finds it valid
+Thread 2 checks row 13 at time 02:23:54 and finds it valid
+Thread 2 checks row 14 at time 02:23:54 and finds it valid
+Thread 2 checks row 15 at time 02:23:54 and finds it valid
+Thread 2 checks row 16 at time 02:23:54 and finds it valid
+Thread 2 checks row 17 at time 02:23:54 and finds it valid
+Thread 2 checks row 18 at time 02:23:54 and finds it valid
+Thread 2 checks row 19 at time 02:23:54 and finds it valid
+Thread 2 checks row 20 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 51 to row 60 at time 02:23:54
+Thread 8 checks row 51 at time 02:23:54 and finds it valid
+Thread 8 checks row 52 at time 02:23:54 and finds it valid
+Thread 8 checks row 53 at time 02:23:54 and finds it valid
+Thread 8 checks row 54 at time 02:23:54 and finds it valid
+Thread 8 checks row 55 at time 02:23:54 and finds it valid
+Thread 8 checks row 56 at time 02:23:54 and finds it valid
+Thread 8 checks row 57 at time 02:23:54 and finds it valid
+Thread 8 checks row 58 at time 02:23:54 and finds it valid
+Thread 8 checks row 59 at time 02:23:54 and finds it valid
+Thread 8 checks row 60 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 61 to row 70 at time 02:23:54
+Thread 6 checks row 61 at time 02:23:54 and finds it valid
+Thread 6 checks row 62 at time 02:23:54 and finds it valid
+Thread 6 checks row 63 at time 02:23:54 and finds it valid
+Thread 6 checks row 64 at time 02:23:54 and finds it valid
+Thread 6 checks row 65 at time 02:23:54 and finds it valid
+Thread 6 checks row 66 at time 02:23:54 and finds it valid
+Thread 6 checks row 67 at time 02:23:54 and finds it valid
+Thread 6 checks row 68 at time 02:23:54 and finds it valid
+Thread 6 checks row 69 at time 02:23:54 and finds it valid
+Thread 6 checks row 70 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 121 to row 130 at time 02:23:54
+Thread 5 checks row 121 at time 02:23:54 and finds it valid
+Thread 5 checks row 122 at time 02:23:54 and finds it valid
+Thread 5 checks row 123 at time 02:23:54 and finds it valid
+Thread 5 checks row 124 at time 02:23:54 and finds it valid
+Thread 5 checks row 125 at time 02:23:54 and finds it valid
+Thread 5 checks row 126 at time 02:23:54 and finds it valid
+Thread 5 checks row 127 at time 02:23:54 and finds it valid
+Thread 5 checks row 128 at time 02:23:54 and finds it valid
+Thread 5 checks row 129 at time 02:23:54 and finds it valid
+Thread 5 checks row 130 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 71 to row 80 at time 02:23:54
+Thread 7 checks row 71 at time 02:23:54 and finds it valid
+Thread 7 checks row 72 at time 02:23:54 and finds it valid
+Thread 7 checks row 73 at time 02:23:54 and finds it valid
+Thread 7 checks row 74 at time 02:23:54 and finds it valid
+Thread 7 checks row 75 at time 02:23:54 and finds it valid
+Thread 7 checks row 76 at time 02:23:54 and finds it valid
+Thread 7 checks row 77 at time 02:23:54 and finds it valid
+Thread 7 checks row 78 at time 02:23:54 and finds it valid
+Thread 7 checks row 79 at time 02:23:54 and finds it valid
+Thread 7 checks row 80 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 101 to row 110 at time 02:23:54
+Thread 3 checks row 101 at time 02:23:54 and finds it valid
+Thread 3 checks row 102 at time 02:23:54 and finds it valid
+Thread 3 checks row 103 at time 02:23:54 and finds it valid
+Thread 3 checks row 104 at time 02:23:54 and finds it valid
+Thread 3 checks row 105 at time 02:23:54 and finds it valid
+Thread 3 checks row 106 at time 02:23:54 and finds it valid
+Thread 3 checks row 107 at time 02:23:54 and finds it valid
+Thread 3 checks row 108 at time 02:23:54 and finds it valid
+Thread 3 checks row 109 at time 02:23:54 and finds it valid
+Thread 3 checks row 110 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 91 to row 100 at time 02:23:54
+Thread 1 checks row 91 at time 02:23:54 and finds it valid
+Thread 1 checks row 92 at time 02:23:54 and finds it valid
+Thread 1 checks row 93 at time 02:23:54 and finds it valid
+Thread 1 checks row 94 at time 02:23:54 and finds it valid
+Thread 1 checks row 95 at time 02:23:54 and finds it valid
+Thread 1 checks row 96 at time 02:23:54 and finds it valid
+Thread 1 checks row 97 at time 02:23:54 and finds it valid
+Thread 1 checks row 98 at time 20:23:54 and finds it valid
+Thread 1 checks row 99 at time 02:23:54 and finds it valid
+Thread 1 checks row 100 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 111 to row 120 at time 02:23:54
+Thread 8 checks row 111 at time 02:23:54 and finds it valid
+Thread 8 checks row 112 at time 20:53:54 and finds it valid
+Thread 8 checks row 113 at time 02:23:54 and finds it valid
+Thread 8 checks row 114 at time 02:23:54 and finds it valid
+Thread 8 checks row 115 at time 20:53:54 and finds it valid
+Thread 8 checks row 116 at time 02:23:54 and finds it valid
+Thread 8 checks row 117 at time 02:23:54 and finds it valid
+Thread 8 checks row 118 at time 02:23:54 and finds it valid
+Thread 8 checks row 119 at time 02:23:54 and finds it valid
+Thread 8 checks row 120 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 81 to row 90 at time 02:23:54
+Thread 4 checks row 81 at time 02:23:54 and finds it valid
+Thread 4 checks row 82 at time 02:23:54 and finds it valid
+Thread 4 checks row 83 at time 02:23:54 and finds it valid
+Thread 4 checks row 84 at time 02:23:54 and finds it valid
+Thread 4 checks row 85 at time 02:23:54 and finds it valid
+Thread 4 checks row 86 at time 02:23:54 and finds it valid
+Thread 4 checks row 87 at time 02:23:54 and finds it valid
+Thread 4 checks row 88 at time 02:23:54 and finds it valid
+Thread 4 checks row 89 at time 02:23:54 and finds it valid
+Thread 4 checks row 90 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 141 to row 150 at time 02:23:54
+Thread 6 checks row 141 at time 02:23:54 and finds it valid
+Thread 6 checks row 142 at time 02:23:54 and finds it valid
+Thread 6 checks row 143 at time 02:23:54 and finds it valid
+Thread 6 checks row 144 at time 02:23:54 and finds it valid
+Thread 6 checks row 145 at time 02:23:54 and finds it valid
+Thread 6 checks row 146 at time 02:23:54 and finds it valid
+Thread 6 checks row 147 at time 02:23:54 and finds it valid
+Thread 6 checks row 148 at time 02:23:54 and finds it valid
+Thread 6 checks row 149 at time 02:23:54 and finds it valid
+Thread 6 checks row 150 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 131 to row 140 at time 02:23:54
+Thread 2 checks row 131 at time 02:23:54 and finds it valid
+Thread 2 checks row 132 at time 02:23:54 and finds it valid
+Thread 2 checks row 133 at time 02:23:54 and finds it valid
+Thread 2 checks row 134 at time 02:23:54 and finds it valid
+Thread 2 checks row 135 at time 02:23:54 and finds it valid
+Thread 2 checks row 136 at time 02:23:54 and finds it valid
+Thread 2 checks row 137 at time 02:23:54 and finds it valid
+Thread 2 checks row 138 at time 02:23:54 and finds it valid
+Thread 2 checks row 139 at time 02:23:54 and finds it valid
+Thread 2 checks row 140 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 171 to row 180 at time 02:23:54
+Thread 7 checks row 171 at time 02:23:54 and finds it valid
+Thread 7 checks row 172 at time 02:23:54 and finds it valid
+Thread 7 checks row 173 at time 02:23:54 and finds it valid
+Thread 7 checks row 174 at time 02:23:54 and finds it valid
+Thread 7 checks row 175 at time 02:23:54 and finds it valid
+Thread 7 checks row 176 at time 02:23:54 and finds it valid
+Thread 7 checks row 177 at time 02:23:54 and finds it valid
+Thread 7 checks row 178 at time 02:23:54 and finds it valid
+Thread 7 checks row 179 at time 02:23:54 and finds it valid
+Thread 7 checks row 180 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 181 to row 190 at time 02:23:54
+Thread 1 checks row 181 at time 02:23:54 and finds it valid
+Thread 1 checks row 182 at time 02:23:54 and finds it valid
+Thread 1 checks row 183 at time 02:23:54 and finds it valid
+Thread 1 checks row 184 at time 02:23:54 and finds it valid
+Thread 1 checks row 185 at time 02:23:54 and finds it valid
+Thread 1 checks row 186 at time 02:23:54 and finds it valid
+Thread 1 checks row 187 at time 02:23:54 and finds it valid
+Thread 1 checks row 188 at time 02:23:54 and finds it valid
+Thread 1 checks row 189 at time 02:23:54 and finds it valid
+Thread 1 checks row 190 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 161 to row 170 at time 02:23:54
+Thread 3 checks row 161 at time 02:23:54 and finds it valid
+Thread 3 checks row 162 at time 02:23:54 and finds it valid
+Thread 3 checks row 163 at time 02:23:54 and finds it valid
+Thread 3 checks row 164 at time 02:23:54 and finds it valid
+Thread 3 checks row 165 at time 02:23:54 and finds it valid
+Thread 3 checks row 166 at time 02:23:54 and finds it valid
+Thread 3 checks row 167 at time 02:23:54 and finds it valid
+Thread 3 checks row 168 at time 02:23:54 and finds it valid
+Thread 3 checks row 169 at time 02:23:54 and finds it valid
+Thread 3 checks row 170 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:53:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 151 to row 160 at time 02:23:54
+Thread 5 checks row 151 at time 02:23:54 and finds it valid
+Thread 5 checks row 152 at time 02:23:54 and finds it valid
+Thread 5 checks row 153 at time 02:23:54 and finds it valid
+Thread 5 checks row 154 at time 02:23:54 and finds it valid
+Thread 5 checks row 155 at time 02:23:54 and finds it valid
+Thread 5 checks row 156 at time 02:23:54 and finds it valid
+Thread 5 checks row 157 at time 02:23:54 and finds it valid
+Thread 5 checks row 158 at time 02:23:54 and finds it valid
+Thread 5 checks row 159 at time 02:23:54 and finds it valid
+Thread 5 checks row 160 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 191 to row 200 at time 02:23:54
+Thread 8 checks row 191 at time 02:23:54 and finds it valid
+Thread 8 checks row 192 at time 02:23:54 and finds it valid
+Thread 8 checks row 193 at time 02:23:54 and finds it valid
+Thread 8 checks row 194 at time 02:23:54 and finds it valid
+Thread 8 checks row 195 at time 02:23:54 and finds it valid
+Thread 8 checks row 196 at time 02:23:54 and finds it valid
+Thread 8 checks row 197 at time 20:23:54 and finds it valid
+Thread 8 checks row 198 at time 02:23:54 and finds it valid
+Thread 8 checks row 199 at time 02:23:54 and finds it valid
+Thread 8 checks row 200 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 211 to row 220 at time 02:23:54
+Thread 2 checks row 211 at time 02:23:54 and finds it valid
+Thread 2 checks row 212 at time 02:23:54 and finds it valid
+Thread 2 checks row 213 at time 02:23:54 and finds it valid
+Thread 2 checks row 214 at time 02:23:54 and finds it valid
+Thread 2 checks row 215 at time 02:23:54 and finds it valid
+Thread 2 checks row 216 at time 02:23:54 and finds it valid
+Thread 2 checks row 217 at time 02:23:54 and finds it valid
+Thread 2 checks row 218 at time 02:23:54 and finds it valid
+Thread 2 checks row 219 at time 02:23:54 and finds it valid
+Thread 2 checks row 220 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 241 to row 250 at time 02:23:54
+Thread 7 checks row 241 at time 02:23:54 and finds it valid
+Thread 7 checks row 242 at time 02:23:54 and finds it valid
+Thread 7 checks row 243 at time 02:23:54 and finds it valid
+Thread 7 checks row 244 at time 02:23:54 and finds it valid
+Thread 7 checks row 245 at time 02:23:54 and finds it valid
+Thread 7 checks row 246 at time 02:23:54 and finds it valid
+Thread 7 checks row 247 at time 02:23:54 and finds it valid
+Thread 7 checks row 248 at time 02:23:54 and finds it valid
+Thread 7 checks row 249 at time 02:23:54 and finds it valid
+Thread 7 checks row 250 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 201 to row 210 at time 02:23:54
+Thread 4 checks row 201 at time 02:23:54 and finds it valid
+Thread 4 checks row 202 at time 02:23:54 and finds it valid
+Thread 4 checks row 203 at time 02:23:54 and finds it valid
+Thread 4 checks row 204 at time 20:23:54 and finds it valid
+Thread 4 checks row 205 at time 02:23:54 and finds it valid
+Thread 4 checks row 206 at time 02:23:54 and finds it valid
+Thread 4 checks row 207 at time 02:23:54 and finds it valid
+Thread 4 checks row 208 at time 02:23:54 and finds it valid
+Thread 4 checks row 209 at time 02:23:54 and finds it valid
+Thread 4 checks row 210 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 251 to row 260 at time 02:23:54
+Thread 3 checks row 251 at time 02:23:54 and finds it valid
+Thread 3 checks row 252 at time 02:23:54 and finds it valid
+Thread 3 checks row 253 at time 02:23:54 and finds it valid
+Thread 3 checks row 254 at time 02:23:54 and finds it valid
+Thread 3 checks row 255 at time 02:23:54 and finds it valid
+Thread 3 checks row 256 at time 02:23:54 and finds it valid
+Thread 3 checks row 257 at time 02:23:54 and finds it valid
+Thread 3 checks row 258 at time 02:23:54 and finds it valid
+Thread 3 checks row 259 at time 02:23:54 and finds it valid
+Thread 3 checks row 260 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 231 to row 240 at time 02:23:54
+Thread 6 checks row 231 at time 02:23:54 and finds it valid
+Thread 6 checks row 232 at time 02:23:54 and finds it valid
+Thread 6 checks row 233 at time 02:23:54 and finds it valid
+Thread 6 checks row 234 at time 02:23:54 and finds it valid
+Thread 6 checks row 235 at time 02:23:54 and finds it valid
+Thread 6 checks row 236 at time 02:23:54 and finds it valid
+Thread 6 checks row 237 at time 02:23:54 and finds it valid
+Thread 6 checks row 238 at time 02:23:54 and finds it valid
+Thread 6 checks row 239 at time 20:53:54 and finds it valid
+Thread 6 checks row 240 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 261 to row 270 at time 02:23:54
+Thread 5 checks row 261 at time 02:23:54 and finds it valid
+Thread 5 checks row 262 at time 02:23:54 and finds it valid
+Thread 5 checks row 263 at time 02:23:54 and finds it valid
+Thread 5 checks row 264 at time 02:23:54 and finds it valid
+Thread 5 checks row 265 at time 02:23:54 and finds it valid
+Thread 5 checks row 266 at time 02:23:54 and finds it valid
+Thread 5 checks row 267 at time 02:23:54 and finds it valid
+Thread 5 checks row 268 at time 02:23:54 and finds it valid
+Thread 5 checks row 269 at time 02:23:54 and finds it valid
+Thread 5 checks row 270 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 271 to row 280 at time 02:23:54
+Thread 8 checks row 271 at time 02:23:54 and finds it valid
+Thread 8 checks row 272 at time 02:23:54 and finds it valid
+Thread 8 checks row 273 at time 02:23:54 and finds it valid
+Thread 8 checks row 274 at time 02:23:54 and finds it valid
+Thread 8 checks row 275 at time 02:23:54 and finds it valid
+Thread 8 checks row 276 at time 02:23:54 and finds it valid
+Thread 8 checks row 277 at time 02:23:54 and finds it valid
+Thread 8 checks row 278 at time 02:23:54 and finds it valid
+Thread 8 checks row 279 at time 02:23:54 and finds it valid
+Thread 8 checks row 280 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 221 to row 230 at time 02:23:54
+Thread 1 checks row 221 at time 02:23:54 and finds it valid
+Thread 1 checks row 222 at time 02:23:54 and finds it valid
+Thread 1 checks row 223 at time 02:23:54 and finds it valid
+Thread 1 checks row 224 at time 02:23:54 and finds it valid
+Thread 1 checks row 225 at time 02:23:54 and finds it valid
+Thread 1 checks row 226 at time 02:23:54 and finds it valid
+Thread 1 checks row 227 at time 02:23:54 and finds it valid
+Thread 1 checks row 228 at time 02:23:54 and finds it valid
+Thread 1 checks row 229 at time 02:23:54 and finds it valid
+Thread 1 checks row 230 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 281 to row 290 at time 02:23:54
+Thread 2 checks row 281 at time 02:23:54 and finds it valid
+Thread 2 checks row 282 at time 02:23:54 and finds it valid
+Thread 2 checks row 283 at time 02:23:54 and finds it valid
+Thread 2 checks row 284 at time 02:23:54 and finds it valid
+Thread 2 checks row 285 at time 02:23:54 and finds it valid
+Thread 2 checks row 286 at time 02:23:54 and finds it valid
+Thread 2 checks row 287 at time 02:23:54 and finds it valid
+Thread 2 checks row 288 at time 02:23:54 and finds it valid
+Thread 2 checks row 289 at time 02:23:54 and finds it valid
+Thread 2 checks row 290 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 291 to row 300 at time 02:23:54
+Thread 4 checks row 291 at time 02:23:54 and finds it valid
+Thread 4 checks row 292 at time 02:23:54 and finds it valid
+Thread 4 checks row 293 at time 02:23:54 and finds it valid
+Thread 4 checks row 294 at time 02:23:54 and finds it valid
+Thread 4 checks row 295 at time 02:23:54 and finds it valid
+Thread 4 checks row 296 at time 02:23:54 and finds it valid
+Thread 4 checks row 297 at time 02:23:54 and finds it valid
+Thread 4 checks row 298 at time 02:23:54 and finds it valid
+Thread 4 checks row 299 at time 02:23:54 and finds it valid
+Thread 4 checks row 300 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 311 to row 320 at time 02:23:54
+Thread 3 checks row 311 at time 02:23:54 and finds it valid
+Thread 3 checks row 312 at time 02:23:54 and finds it valid
+Thread 3 checks row 313 at time 02:23:54 and finds it valid
+Thread 3 checks row 314 at time 02:23:54 and finds it valid
+Thread 3 checks row 315 at time 02:23:54 and finds it valid
+Thread 3 checks row 316 at time 02:23:54 and finds it valid
+Thread 3 checks row 317 at time 02:23:54 and finds it valid
+Thread 3 checks row 318 at time 02:23:54 and finds it valid
+Thread 3 checks row 319 at time 02:23:54 and finds it valid
+Thread 3 checks row 320 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 321 to row 330 at time 02:23:54
+Thread 6 checks row 321 at time 02:23:54 and finds it valid
+Thread 6 checks row 322 at time 02:23:54 and finds it valid
+Thread 6 checks row 323 at time 02:23:54 and finds it valid
+Thread 6 checks row 324 at time 02:23:54 and finds it valid
+Thread 6 checks row 325 at time 02:23:54 and finds it valid
+Thread 6 checks row 326 at time 02:23:54 and finds it valid
+Thread 6 checks row 327 at time 02:23:54 and finds it valid
+Thread 6 checks row 328 at time 02:23:54 and finds it valid
+Thread 6 checks row 329 at time 02:23:54 and finds it valid
+Thread 6 checks row 330 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 331 to row 340 at time 02:23:54
+Thread 5 checks row 331 at time 02:23:54 and finds it valid
+Thread 5 checks row 332 at time 02:23:54 and finds it valid
+Thread 5 checks row 333 at time 02:23:54 and finds it valid
+Thread 5 checks row 334 at time 02:23:54 and finds it valid
+Thread 5 checks row 335 at time 02:23:54 and finds it valid
+Thread 5 checks row 336 at time 02:23:54 and finds it valid
+Thread 5 checks row 337 at time 02:23:54 and finds it valid
+Thread 5 checks row 338 at time 02:23:54 and finds it valid
+Thread 5 checks row 339 at time 02:23:54 and finds it valid
+Thread 5 checks row 340 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 341 to row 350 at time 02:23:54
+Thread 8 checks row 341 at time 02:23:54 and finds it valid
+Thread 8 checks row 342 at time 02:23:54 and finds it valid
+Thread 8 checks row 343 at time 02:23:54 and finds it valid
+Thread 8 checks row 344 at time 02:23:54 and finds it valid
+Thread 8 checks row 345 at time 02:23:54 and finds it valid
+Thread 8 checks row 346 at time 02:23:54 and finds it valid
+Thread 8 checks row 347 at time 02:23:54 and finds it valid
+Thread 8 checks row 348 at time 02:23:54 and finds it valid
+Thread 8 checks row 349 at time 02:23:54 and finds it valid
+Thread 8 checks row 350 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 301 to row 310 at time 02:23:54
+Thread 7 checks row 301 at time 02:23:54 and finds it valid
+Thread 7 checks row 302 at time 02:23:54 and finds it valid
+Thread 7 checks row 303 at time 02:23:54 and finds it valid
+Thread 7 checks row 304 at time 02:23:54 and finds it valid
+Thread 7 checks row 305 at time 02:23:54 and finds it valid
+Thread 7 checks row 306 at time 02:23:54 and finds it valid
+Thread 7 checks row 307 at time 02:23:54 and finds it valid
+Thread 7 checks row 308 at time 02:23:54 and finds it valid
+Thread 7 checks row 309 at time 02:23:54 and finds it valid
+Thread 7 checks row 310 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 351 to row 360 at time 02:23:54
+Thread 1 checks row 351 at time 02:23:54 and finds it valid
+Thread 1 checks row 352 at time 02:23:54 and finds it valid
+Thread 1 checks row 353 at time 02:23:54 and finds it valid
+Thread 1 checks row 354 at time 02:23:54 and finds it valid
+Thread 1 checks row 355 at time 02:23:54 and finds it valid
+Thread 1 checks row 356 at time 02:23:54 and finds it valid
+Thread 1 checks row 357 at time 02:23:54 and finds it valid
+Thread 1 checks row 358 at time 02:23:54 and finds it valid
+Thread 1 checks row 359 at time 02:23:54 and finds it valid
+Thread 1 checks row 360 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 371 to row 380 at time 02:23:54
+Thread 4 checks row 371 at time 02:23:54 and finds it valid
+Thread 4 checks row 372 at time 02:23:54 and finds it valid
+Thread 4 checks row 373 at time 02:23:54 and finds it valid
+Thread 4 checks row 374 at time 02:23:54 and finds it valid
+Thread 4 checks row 375 at time 02:23:54 and finds it valid
+Thread 4 checks row 376 at time 02:23:54 and finds it valid
+Thread 4 checks row 377 at time 02:23:54 and finds it valid
+Thread 4 checks row 378 at time 02:23:54 and finds it valid
+Thread 4 checks row 379 at time 02:23:54 and finds it valid
+Thread 4 checks row 380 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 381 to row 390 at time 02:23:54
+Thread 3 checks row 381 at time 02:23:54 and finds it valid
+Thread 3 checks row 382 at time 02:23:54 and finds it valid
+Thread 3 checks row 383 at time 02:23:54 and finds it valid
+Thread 3 checks row 384 at time 02:23:54 and finds it valid
+Thread 3 checks row 385 at time 02:23:54 and finds it valid
+Thread 3 checks row 386 at time 02:53:54 and finds it valid
+Thread 3 checks row 387 at time 02:23:54 and finds it valid
+Thread 3 checks row 388 at time 02:23:54 and finds it valid
+Thread 3 checks row 389 at time 02:23:54 and finds it valid
+Thread 3 checks row 390 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 391 to row 400 at time 02:23:54
+Thread 6 checks row 391 at time 02:23:54 and finds it valid
+Thread 6 checks row 392 at time 02:23:54 and finds it valid
+Thread 6 checks row 393 at time 02:23:54 and finds it valid
+Thread 6 checks row 394 at time 02:23:54 and finds it valid
+Thread 6 checks row 395 at time 02:23:54 and finds it valid
+Thread 6 checks row 396 at time 02:23:54 and finds it valid
+Thread 6 checks row 397 at time 02:23:54 and finds it valid
+Thread 6 checks row 398 at time 02:23:54 and finds it valid
+Thread 6 checks row 399 at time 02:23:54 and finds it valid
+Thread 6 checks row 400 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 361 to row 370 at time 02:23:54
+Thread 2 checks row 361 at time 02:23:54 and finds it valid
+Thread 2 checks row 362 at time 02:23:54 and finds it valid
+Thread 2 checks row 363 at time 02:23:54 and finds it valid
+Thread 2 checks row 364 at time 02:23:54 and finds it valid
+Thread 2 checks row 365 at time 02:23:54 and finds it valid
+Thread 2 checks row 366 at time 02:23:54 and finds it valid
+Thread 2 checks row 367 at time 02:23:54 and finds it valid
+Thread 2 checks row 368 at time 02:23:54 and finds it valid
+Thread 2 checks row 369 at time 02:23:54 and finds it valid
+Thread 2 checks row 370 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 401 to row 410 at time 02:23:54
+Thread 8 checks row 401 at time 02:23:54 and finds it valid
+Thread 8 checks row 402 at time 02:23:54 and finds it valid
+Thread 8 checks row 403 at time 02:23:54 and finds it valid
+Thread 8 checks row 404 at time 02:23:54 and finds it valid
+Thread 8 checks row 405 at time 02:23:54 and finds it valid
+Thread 8 checks row 406 at time 02:23:54 and finds it valid
+Thread 8 checks row 407 at time 02:23:54 and finds it valid
+Thread 8 checks row 408 at time 02:23:54 and finds it valid
+Thread 8 checks row 409 at time 02:23:54 and finds it valid
+Thread 8 checks row 410 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 441 to row 450 at time 02:23:54
+Thread 4 checks row 441 at time 02:23:54 and finds it valid
+Thread 4 checks row 442 at time 02:23:54 and finds it valid
+Thread 4 checks row 443 at time 02:23:54 and finds it valid
+Thread 4 checks row 444 at time 02:23:54 and finds it valid
+Thread 4 checks row 445 at time 02:23:54 and finds it valid
+Thread 4 checks row 446 at time 02:23:54 and finds it valid
+Thread 4 checks row 447 at time 02:23:54 and finds it valid
+Thread 4 checks row 448 at time 02:23:54 and finds it valid
+Thread 4 checks row 449 at time 02:23:54 and finds it valid
+Thread 4 checks row 450 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 421 to row 430 at time 02:23:54
+Thread 5 checks row 421 at time 02:23:54 and finds it valid
+Thread 5 checks row 422 at time 02:23:54 and finds it valid
+Thread 5 checks row 423 at time 02:23:54 and finds it valid
+Thread 5 checks row 424 at time 02:23:54 and finds it valid
+Thread 5 checks row 425 at time 02:23:54 and finds it valid
+Thread 5 checks row 426 at time 02:23:54 and finds it valid
+Thread 5 checks row 427 at time 02:23:54 and finds it valid
+Thread 5 checks row 428 at time 02:23:54 and finds it valid
+Thread 5 checks row 429 at time 02:23:54 and finds it valid
+Thread 5 checks row 430 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 451 to row 460 at time 02:23:54
+Thread 3 checks row 451 at time 02:23:54 and finds it valid
+Thread 3 checks row 452 at time 02:23:54 and finds it valid
+Thread 3 checks row 453 at time 02:23:54 and finds it valid
+Thread 3 checks row 454 at time 02:23:54 and finds it valid
+Thread 3 checks row 455 at time 02:23:54 and finds it valid
+Thread 3 checks row 456 at time 02:23:54 and finds it valid
+Thread 3 checks row 457 at time 02:23:54 and finds it valid
+Thread 3 checks row 458 at time 02:23:54 and finds it valid
+Thread 3 checks row 459 at time 02:23:54 and finds it valid
+Thread 3 checks row 460 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 431 to row 440 at time 02:23:54
+Thread 1 checks row 431 at time 02:23:54 and finds it valid
+Thread 1 checks row 432 at time 02:23:54 and finds it valid
+Thread 1 checks row 433 at time 02:23:54 and finds it valid
+Thread 1 checks row 434 at time 02:23:54 and finds it valid
+Thread 1 checks row 435 at time 02:23:54 and finds it valid
+Thread 1 checks row 436 at time 02:23:54 and finds it valid
+Thread 1 checks row 437 at time 02:23:54 and finds it valid
+Thread 1 checks row 438 at time 02:23:54 and finds it valid
+Thread 1 checks row 439 at time 02:23:54 and finds it valid
+Thread 1 checks row 440 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 411 to row 420 at time 02:23:54
+Thread 7 checks row 411 at time 02:23:54 and finds it valid
+Thread 7 checks row 412 at time 02:23:54 and finds it valid
+Thread 7 checks row 413 at time 02:23:54 and finds it valid
+Thread 7 checks row 414 at time 02:23:54 and finds it valid
+Thread 7 checks row 415 at time 02:23:54 and finds it valid
+Thread 7 checks row 416 at time 02:23:54 and finds it valid
+Thread 7 checks row 417 at time 02:23:54 and finds it valid
+Thread 7 checks row 418 at time 02:23:54 and finds it valid
+Thread 7 checks row 419 at time 02:23:54 and finds it valid
+Thread 7 checks row 420 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 461 to row 470 at time 02:23:54
+Thread 6 checks row 461 at time 02:23:54 and finds it valid
+Thread 6 checks row 462 at time 02:23:54 and finds it valid
+Thread 6 checks row 463 at time 02:23:54 and finds it valid
+Thread 6 checks row 464 at time 02:23:54 and finds it valid
+Thread 6 checks row 465 at time 02:23:54 and finds it valid
+Thread 6 checks row 466 at time 02:23:54 and finds it valid
+Thread 6 checks row 467 at time 02:23:54 and finds it valid
+Thread 6 checks row 468 at time 02:23:54 and finds it valid
+Thread 6 checks row 469 at time 02:23:54 and finds it valid
+Thread 6 checks row 470 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 471 to row 480 at time 02:23:54
+Thread 2 checks row 471 at time 02:23:54 and finds it valid
+Thread 2 checks row 472 at time 02:23:54 and finds it valid
+Thread 2 checks row 473 at time 02:23:54 and finds it valid
+Thread 2 checks row 474 at time 02:23:54 and finds it valid
+Thread 2 checks row 475 at time 02:23:54 and finds it valid
+Thread 2 checks row 476 at time 02:23:54 and finds it valid
+Thread 2 checks row 477 at time 02:23:54 and finds it valid
+Thread 2 checks row 478 at time 02:23:54 and finds it valid
+Thread 2 checks row 479 at time 02:23:54 and finds it valid
+Thread 2 checks row 480 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 481 to row 490 at time 02:23:54
+Thread 8 checks row 481 at time 02:23:54 and finds it valid
+Thread 8 checks row 482 at time 02:23:54 and finds it valid
+Thread 8 checks row 483 at time 02:23:54 and finds it valid
+Thread 8 checks row 484 at time 02:23:54 and finds it valid
+Thread 8 checks row 485 at time 02:23:54 and finds it valid
+Thread 8 checks row 486 at time 02:23:54 and finds it valid
+Thread 8 checks row 487 at time 02:23:54 and finds it valid
+Thread 8 checks row 488 at time 02:23:54 and finds it valid
+Thread 8 checks row 489 at time 02:23:54 and finds it valid
+Thread 8 checks row 490 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 501 to row 510 at time 02:23:54
+Thread 5 checks row 501 at time 02:23:54 and finds it valid
+Thread 5 checks row 502 at time 02:23:54 and finds it valid
+Thread 5 checks row 503 at time 02:23:54 and finds it valid
+Thread 5 checks row 504 at time 02:23:54 and finds it valid
+Thread 5 checks row 505 at time 02:23:54 and finds it valid
+Thread 5 checks row 506 at time 02:23:54 and finds it valid
+Thread 5 checks row 507 at time 02:23:54 and finds it valid
+Thread 5 checks row 508 at time 02:23:54 and finds it valid
+Thread 5 checks row 509 at time 02:23:54 and finds it valid
+Thread 5 checks row 510 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 491 to row 500 at time 02:23:54
+Thread 4 checks row 491 at time 02:23:54 and finds it valid
+Thread 4 checks row 492 at time 02:23:54 and finds it valid
+Thread 4 checks row 493 at time 02:23:54 and finds it valid
+Thread 4 checks row 494 at time 02:23:54 and finds it valid
+Thread 4 checks row 495 at time 02:23:54 and finds it valid
+Thread 4 checks row 496 at time 02:23:54 and finds it valid
+Thread 4 checks row 497 at time 02:23:54 and finds it valid
+Thread 4 checks row 498 at time 02:23:54 and finds it valid
+Thread 4 checks row 499 at time 02:23:54 and finds it valid
+Thread 4 checks row 500 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 511 to row 520 at time 02:23:54
+Thread 3 checks row 511 at time 02:23:54 and finds it valid
+Thread 3 checks row 512 at time 02:23:54 and finds it valid
+Thread 3 checks row 513 at time 02:23:54 and finds it valid
+Thread 3 checks row 514 at time 02:23:54 and finds it valid
+Thread 3 checks row 515 at time 02:23:54 and finds it valid
+Thread 3 checks row 516 at time 02:23:54 and finds it valid
+Thread 3 checks row 517 at time 02:23:54 and finds it valid
+Thread 3 checks row 518 at time 02:23:54 and finds it valid
+Thread 3 checks row 519 at time 02:23:54 and finds it valid
+Thread 3 checks row 520 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 521 to row 530 at time 02:23:54
+Thread 1 checks row 521 at time 02:23:54 and finds it valid
+Thread 1 checks row 522 at time 02:23:54 and finds it valid
+Thread 1 checks row 523 at time 02:23:54 and finds it valid
+Thread 1 checks row 524 at time 02:23:54 and finds it valid
+Thread 1 checks row 525 at time 02:23:54 and finds it valid
+Thread 1 checks row 526 at time 02:23:54 and finds it valid
+Thread 1 checks row 527 at time 02:23:54 and finds it valid
+Thread 1 checks row 528 at time 02:23:54 and finds it valid
+Thread 1 checks row 529 at time 02:23:54 and finds it valid
+Thread 1 checks row 530 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 531 to row 540 at time 02:23:54
+Thread 7 checks row 531 at time 02:23:54 and finds it valid
+Thread 7 checks row 532 at time 02:23:54 and finds it valid
+Thread 7 checks row 533 at time 02:23:54 and finds it valid
+Thread 7 checks row 534 at time 02:23:54 and finds it valid
+Thread 7 checks row 535 at time 02:23:54 and finds it valid
+Thread 7 checks row 536 at time 02:23:54 and finds it valid
+Thread 7 checks row 537 at time 02:23:54 and finds it valid
+Thread 7 checks row 538 at time 02:23:54 and finds it valid
+Thread 7 checks row 539 at time 02:23:54 and finds it valid
+Thread 7 checks row 540 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 541 to row 550 at time 02:23:54
+Thread 6 checks row 541 at time 02:23:54 and finds it valid
+Thread 6 checks row 542 at time 02:23:54 and finds it valid
+Thread 6 checks row 543 at time 02:23:54 and finds it valid
+Thread 6 checks row 544 at time 02:23:54 and finds it valid
+Thread 6 checks row 545 at time 02:23:54 and finds it valid
+Thread 6 checks row 546 at time 02:23:54 and finds it valid
+Thread 6 checks row 547 at time 02:23:54 and finds it valid
+Thread 6 checks row 548 at time 02:23:54 and finds it valid
+Thread 6 checks row 549 at time 02:23:54 and finds it valid
+Thread 6 checks row 550 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs row 551 to row 560 at time 02:23:54
+Thread 2 checks row 551 at time 02:23:54 and finds it valid
+Thread 2 checks row 552 at time 02:23:54 and finds it valid
+Thread 2 checks row 553 at time 02:23:54 and finds it valid
+Thread 2 checks row 554 at time 02:23:54 and finds it valid
+Thread 2 checks row 555 at time 02:23:54 and finds it valid
+Thread 2 checks row 556 at time 02:23:54 and finds it valid
+Thread 2 checks row 557 at time 02:23:54 and finds it valid
+Thread 2 checks row 558 at time 02:23:54 and finds it valid
+Thread 2 checks row 559 at time 02:23:54 and finds it valid
+Thread 2 checks row 560 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs row 561 to row 570 at time 02:23:54
+Thread 8 checks row 561 at time 02:23:54 and finds it valid
+Thread 8 checks row 562 at time 02:23:54 and finds it valid
+Thread 8 checks row 563 at time 02:23:54 and finds it valid
+Thread 8 checks row 564 at time 02:23:54 and finds it valid
+Thread 8 checks row 565 at time 02:23:54 and finds it valid
+Thread 8 checks row 566 at time 02:23:54 and finds it valid
+Thread 8 checks row 567 at time 02:23:54 and finds it valid
+Thread 8 checks row 568 at time 02:23:54 and finds it valid
+Thread 8 checks row 569 at time 02:23:54 and finds it valid
+Thread 8 checks row 570 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs row 571 to row 580 at time 02:23:54
+Thread 5 checks row 571 at time 02:23:54 and finds it valid
+Thread 5 checks row 572 at time 02:23:54 and finds it valid
+Thread 5 checks row 573 at time 02:23:54 and finds it valid
+Thread 5 checks row 574 at time 02:23:54 and finds it valid
+Thread 5 checks row 575 at time 02:23:54 and finds it valid
+Thread 5 checks row 576 at time 02:23:54 and finds it valid
+Thread 5 checks row 577 at time 02:23:54 and finds it valid
+Thread 5 checks row 578 at time 02:23:54 and finds it valid
+Thread 5 checks row 579 at time 02:23:54 and finds it valid
+Thread 5 checks row 580 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs row 591 to row 600 at time 02:23:54
+Thread 3 checks row 591 at time 02:23:54 and finds it valid
+Thread 3 checks row 592 at time 02:23:54 and finds it valid
+Thread 3 checks row 593 at time 02:23:54 and finds it valid
+Thread 3 checks row 594 at time 02:23:54 and finds it valid
+Thread 3 checks row 595 at time 02:23:54 and finds it valid
+Thread 3 checks row 596 at time 02:23:54 and finds it valid
+Thread 3 checks row 597 at time 02:23:54 and finds it valid
+Thread 3 checks row 598 at time 02:23:54 and finds it valid
+Thread 3 checks row 599 at time 02:23:54 and finds it valid
+Thread 3 checks row 600 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs row 581 to row 590 at time 02:23:54
+Thread 4 checks row 581 at time 02:23:54 and finds it valid
+Thread 4 checks row 582 at time 02:23:54 and finds it valid
+Thread 4 checks row 583 at time 02:23:54 and finds it valid
+Thread 4 checks row 584 at time 02:23:54 and finds it valid
+Thread 4 checks row 585 at time 02:23:54 and finds it valid
+Thread 4 checks row 586 at time 02:23:54 and finds it valid
+Thread 4 checks row 587 at time 02:23:54 and finds it valid
+Thread 4 checks row 588 at time 02:23:54 and finds it valid
+Thread 4 checks row 589 at time 02:23:54 and finds it valid
+Thread 4 checks row 590 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs row 611 to row 620 at time 02:23:54
+Thread 7 checks row 611 at time 02:23:54 and finds it valid
+Thread 7 checks row 612 at time 02:23:54 and finds it valid
+Thread 7 checks row 613 at time 02:23:54 and finds it valid
+Thread 7 checks row 614 at time 02:23:54 and finds it valid
+Thread 7 checks row 615 at time 02:23:54 and finds it valid
+Thread 7 checks row 616 at time 02:23:54 and finds it valid
+Thread 7 checks row 617 at time 02:23:54 and finds it valid
+Thread 7 checks row 618 at time 02:23:54 and finds it valid
+Thread 7 checks row 619 at time 02:23:54 and finds it valid
+Thread 7 checks row 620 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs row 601 to row 610 at time 02:23:54
+Thread 1 checks row 601 at time 02:23:54 and finds it valid
+Thread 1 checks row 602 at time 02:23:54 and finds it valid
+Thread 1 checks row 603 at time 02:23:54 and finds it valid
+Thread 1 checks row 604 at time 02:23:54 and finds it valid
+Thread 1 checks row 605 at time 02:23:54 and finds it valid
+Thread 1 checks row 606 at time 02:23:54 and finds it valid
+Thread 1 checks row 607 at time 02:23:54 and finds it valid
+Thread 1 checks row 608 at time 02:23:54 and finds it valid
+Thread 1 checks row 609 at time 02:23:54 and finds it valid
+Thread 1 checks row 610 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs row 621 to column 5 at time 02:23:54
+Thread 6 checks row 621 at time 02:23:54 and finds it valid
+Thread 6 checks row 622 at time 02:23:54 and finds it valid
+Thread 6 checks row 623 at time 02:23:54 and finds it valid
+Thread 6 checks row 624 at time 02:23:54 and finds it valid
+Thread 6 checks row 625 at time 02:23:54 and finds it valid
+Thread 6 checks column 1 at time 02:23:54 and finds it valid
+Thread 6 checks column 2 at time 02:23:54 and finds it valid
+Thread 6 checks column 3 at time 02:23:54 and finds it valid
+Thread 6 checks column 4 at time 02:23:54 and finds it valid
+Thread 6 checks column 5 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 6 to column 15 at time 02:23:54
+Thread 8 checks column 6 at time 02:23:54 and finds it valid
+Thread 8 checks column 7 at time 02:23:54 and finds it valid
+Thread 8 checks column 8 at time 02:23:54 and finds it valid
+Thread 8 checks column 9 at time 02:23:54 and finds it valid
+Thread 8 checks column 10 at time 02:23:54 and finds it valid
+Thread 8 checks column 11 at time 02:23:54 and finds it valid
+Thread 8 checks column 12 at time 02:23:54 and finds it valid
+Thread 8 checks column 13 at time 02:23:54 and finds it valid
+Thread 8 checks column 14 at time 02:23:54 and finds it valid
+Thread 8 checks column 15 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 16 to column 25 at time 02:23:54
+Thread 2 checks column 16 at time 02:23:54 and finds it valid
+Thread 2 checks column 17 at time 02:23:54 and finds it valid
+Thread 2 checks column 18 at time 02:23:54 and finds it valid
+Thread 2 checks column 19 at time 02:23:54 and finds it valid
+Thread 2 checks column 20 at time 02:23:54 and finds it valid
+Thread 2 checks column 21 at time 02:23:54 and finds it valid
+Thread 2 checks column 22 at time 02:23:54 and finds it valid
+Thread 2 checks column 23 at time 02:23:54 and finds it valid
+Thread 2 checks column 24 at time 02:23:54 and finds it valid
+Thread 2 checks column 25 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 26 to column 35 at time 02:23:54
+Thread 5 checks column 26 at time 02:23:54 and finds it valid
+Thread 5 checks column 27 at time 02:23:54 and finds it valid
+Thread 5 checks column 28 at time 02:23:54 and finds it valid
+Thread 5 checks column 29 at time 02:23:54 and finds it valid
+Thread 5 checks column 30 at time 02:23:54 and finds it valid
+Thread 5 checks column 31 at time 02:23:54 and finds it valid
+Thread 5 checks column 32 at time 02:23:54 and finds it valid
+Thread 5 checks column 33 at time 02:23:54 and finds it valid
+Thread 5 checks column 34 at time 02:23:54 and finds it valid
+Thread 5 checks column 35 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 36 to column 45 at time 02:23:54
+Thread 3 checks column 36 at time 02:23:54 and finds it valid
+Thread 3 checks column 37 at time 02:23:54 and finds it valid
+Thread 3 checks column 38 at time 02:23:54 and finds it valid
+Thread 3 checks column 39 at time 02:23:54 and finds it valid
+Thread 3 checks column 40 at time 02:23:54 and finds it valid
+Thread 3 checks column 41 at time 02:23:54 and finds it valid
+Thread 3 checks column 42 at time 02:23:54 and finds it valid
+Thread 3 checks column 43 at time 02:23:54 and finds it valid
+Thread 3 checks column 44 at time 02:23:54 and finds it valid
+Thread 3 checks column 45 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 46 to column 55 at time 02:23:54
+Thread 4 checks column 46 at time 02:23:54 and finds it valid
+Thread 4 checks column 47 at time 02:23:54 and finds it valid
+Thread 4 checks column 48 at time 02:23:54 and finds it valid
+Thread 4 checks column 49 at time 02:23:54 and finds it valid
+Thread 4 checks column 50 at time 02:23:54 and finds it valid
+Thread 4 checks column 51 at time 02:23:54 and finds it valid
+Thread 4 checks column 52 at time 02:23:54 and finds it valid
+Thread 4 checks column 53 at time 02:23:54 and finds it valid
+Thread 4 checks column 54 at time 02:23:54 and finds it valid
+Thread 4 checks column 55 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 56 to column 65 at time 02:23:54
+Thread 7 checks column 56 at time 02:23:54 and finds it valid
+Thread 7 checks column 57 at time 02:23:54 and finds it valid
+Thread 7 checks column 58 at time 02:23:54 and finds it valid
+Thread 7 checks column 59 at time 02:23:54 and finds it valid
+Thread 7 checks column 60 at time 02:23:54 and finds it valid
+Thread 7 checks column 61 at time 02:23:54 and finds it valid
+Thread 7 checks column 62 at time 02:23:54 and finds it valid
+Thread 7 checks column 63 at time 02:23:54 and finds it valid
+Thread 7 checks column 64 at time 02:23:54 and finds it valid
+Thread 7 checks column 65 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 66 to column 75 at time 02:23:54
+Thread 1 checks column 66 at time 02:23:54 and finds it valid
+Thread 1 checks column 67 at time 02:23:54 and finds it valid
+Thread 1 checks column 68 at time 02:23:54 and finds it valid
+Thread 1 checks column 69 at time 02:23:54 and finds it valid
+Thread 1 checks column 70 at time 02:23:54 and finds it valid
+Thread 1 checks column 71 at time 02:23:54 and finds it valid
+Thread 1 checks column 72 at time 02:23:54 and finds it valid
+Thread 1 checks column 73 at time 02:23:54 and finds it valid
+Thread 1 checks column 74 at time 02:23:54 and finds it valid
+Thread 1 checks column 75 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 76 to column 85 at time 02:23:54
+Thread 6 checks column 76 at time 02:23:54 and finds it valid
+Thread 6 checks column 77 at time 02:23:54 and finds it valid
+Thread 6 checks column 78 at time 02:23:54 and finds it valid
+Thread 6 checks column 79 at time 02:23:54 and finds it valid
+Thread 6 checks column 80 at time 02:23:54 and finds it valid
+Thread 6 checks column 81 at time 02:23:54 and finds it valid
+Thread 6 checks column 82 at time 02:23:54 and finds it valid
+Thread 6 checks column 83 at time 02:23:54 and finds it valid
+Thread 6 checks column 84 at time 02:23:54 and finds it valid
+Thread 6 checks column 85 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 86 to column 95 at time 02:23:54
+Thread 8 checks column 86 at time 02:23:54 and finds it valid
+Thread 8 checks column 87 at time 02:23:54 and finds it valid
+Thread 8 checks column 88 at time 02:23:54 and finds it valid
+Thread 8 checks column 89 at time 02:23:54 and finds it valid
+Thread 8 checks column 90 at time 02:23:54 and finds it valid
+Thread 8 checks column 91 at time 02:23:54 and finds it valid
+Thread 8 checks column 92 at time 02:23:54 and finds it valid
+Thread 8 checks column 93 at time 02:23:54 and finds it valid
+Thread 8 checks column 94 at time 02:23:54 and finds it valid
+Thread 8 checks column 95 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 96 to column 105 at time 02:23:54
+Thread 5 checks column 96 at time 02:23:54 and finds it valid
+Thread 5 checks column 97 at time 02:23:54 and finds it valid
+Thread 5 checks column 98 at time 02:23:54 and finds it valid
+Thread 5 checks column 99 at time 02:23:54 and finds it valid
+Thread 5 checks column 100 at time 02:23:54 and finds it valid
+Thread 5 checks column 101 at time 02:23:54 and finds it valid
+Thread 5 checks column 102 at time 02:23:54 and finds it valid
+Thread 5 checks column 103 at time 02:23:54 and finds it valid
+Thread 5 checks column 104 at time 02:23:54 and finds it valid
+Thread 5 checks column 105 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 116 to column 125 at time 02:23:54
+Thread 3 checks column 116 at time 02:23:54 and finds it valid
+Thread 3 checks column 117 at time 02:23:54 and finds it valid
+Thread 3 checks column 118 at time 02:23:54 and finds it valid
+Thread 3 checks column 119 at time 02:23:54 and finds it valid
+Thread 3 checks column 120 at time 02:23:54 and finds it valid
+Thread 3 checks column 121 at time 02:23:54 and finds it valid
+Thread 3 checks column 122 at time 02:23:54 and finds it valid
+Thread 3 checks column 123 at time 02:23:54 and finds it valid
+Thread 3 checks column 124 at time 02:23:54 and finds it valid
+Thread 3 checks column 125 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 106 to column 115 at time 02:23:54
+Thread 2 checks column 106 at time 02:23:54 and finds it valid
+Thread 2 checks column 107 at time 02:23:54 and finds it valid
+Thread 2 checks column 108 at time 02:23:54 and finds it valid
+Thread 2 checks column 109 at time 02:23:54 and finds it valid
+Thread 2 checks column 110 at time 02:23:54 and finds it valid
+Thread 2 checks column 111 at time 02:23:54 and finds it valid
+Thread 2 checks column 112 at time 02:23:54 and finds it valid
+Thread 2 checks column 113 at time 02:23:54 and finds it valid
+Thread 2 checks column 114 at time 02:23:54 and finds it valid
+Thread 2 checks column 115 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 126 to column 135 at time 02:23:54
+Thread 7 checks column 126 at time 02:23:54 and finds it valid
+Thread 7 checks column 127 at time 02:23:54 and finds it valid
+Thread 7 checks column 128 at time 02:23:54 and finds it valid
+Thread 7 checks column 129 at time 02:23:54 and finds it valid
+Thread 7 checks column 130 at time 02:23:54 and finds it valid
+Thread 7 checks column 131 at time 02:23:54 and finds it valid
+Thread 7 checks column 132 at time 02:23:54 and finds it valid
+Thread 7 checks column 133 at time 02:23:54 and finds it valid
+Thread 7 checks column 134 at time 02:23:54 and finds it valid
+Thread 7 checks column 135 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 146 to column 155 at time 02:23:54
+Thread 1 checks column 146 at time 02:23:54 and finds it valid
+Thread 1 checks column 147 at time 02:23:54 and finds it valid
+Thread 1 checks column 148 at time 02:23:54 and finds it valid
+Thread 1 checks column 149 at time 02:23:54 and finds it valid
+Thread 1 checks column 150 at time 02:23:54 and finds it valid
+Thread 1 checks column 151 at time 02:23:54 and finds it valid
+Thread 1 checks column 152 at time 02:23:54 and finds it valid
+Thread 1 checks column 153 at time 02:23:54 and finds it valid
+Thread 1 checks column 154 at time 02:23:54 and finds it valid
+Thread 1 checks column 155 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 136 to column 145 at time 02:23:54
+Thread 4 checks column 136 at time 02:23:54 and finds it valid
+Thread 4 checks column 137 at time 02:23:54 and finds it valid
+Thread 4 checks column 138 at time 02:23:54 and finds it valid
+Thread 4 checks column 139 at time 02:23:54 and finds it valid
+Thread 4 checks column 140 at time 02:23:54 and finds it valid
+Thread 4 checks column 141 at time 02:23:54 and finds it valid
+Thread 4 checks column 142 at time 02:23:54 and finds it valid
+Thread 4 checks column 143 at time 02:23:54 and finds it valid
+Thread 4 checks column 144 at time 02:23:54 and finds it valid
+Thread 4 checks column 145 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 156 to column 165 at time 02:23:54
+Thread 6 checks column 156 at time 02:23:54 and finds it valid
+Thread 6 checks column 157 at time 02:23:54 and finds it valid
+Thread 6 checks column 158 at time 02:23:54 and finds it valid
+Thread 6 checks column 159 at time 02:23:54 and finds it valid
+Thread 6 checks column 160 at time 02:23:54 and finds it valid
+Thread 6 checks column 161 at time 02:23:54 and finds it valid
+Thread 6 checks column 162 at time 02:23:54 and finds it valid
+Thread 6 checks column 163 at time 02:23:54 and finds it valid
+Thread 6 checks column 164 at time 02:23:54 and finds it valid
+Thread 6 checks column 165 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 166 to column 175 at time 02:23:54
+Thread 8 checks column 166 at time 02:23:54 and finds it valid
+Thread 8 checks column 167 at time 02:23:54 and finds it valid
+Thread 8 checks column 168 at time 02:23:54 and finds it valid
+Thread 8 checks column 169 at time 02:23:54 and finds it valid
+Thread 8 checks column 170 at time 02:23:54 and finds it valid
+Thread 8 checks column 171 at time 02:23:54 and finds it valid
+Thread 8 checks column 172 at time 02:23:54 and finds it valid
+Thread 8 checks column 173 at time 02:23:54 and finds it valid
+Thread 8 checks column 174 at time 02:23:54 and finds it valid
+Thread 8 checks column 175 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 176 to column 185 at time 02:23:54
+Thread 5 checks column 176 at time 02:23:54 and finds it valid
+Thread 5 checks column 177 at time 02:23:54 and finds it valid
+Thread 5 checks column 178 at time 02:23:54 and finds it valid
+Thread 5 checks column 179 at time 02:23:54 and finds it valid
+Thread 5 checks column 180 at time 02:23:54 and finds it valid
+Thread 5 checks column 181 at time 02:23:54 and finds it valid
+Thread 5 checks column 182 at time 02:23:54 and finds it valid
+Thread 5 checks column 183 at time 02:23:54 and finds it valid
+Thread 5 checks column 184 at time 02:23:54 and finds it valid
+Thread 5 checks column 185 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 196 to column 205 at time 02:23:54
+Thread 3 checks column 196 at time 02:23:54 and finds it valid
+Thread 3 checks column 197 at time 02:23:54 and finds it valid
+Thread 3 checks column 198 at time 02:23:54 and finds it valid
+Thread 3 checks column 199 at time 02:23:54 and finds it valid
+Thread 3 checks column 200 at time 02:23:54 and finds it valid
+Thread 3 checks column 201 at time 02:23:54 and finds it valid
+Thread 3 checks column 202 at time 02:23:54 and finds it valid
+Thread 3 checks column 203 at time 02:23:54 and finds it valid
+Thread 3 checks column 204 at time 02:23:54 and finds it valid
+Thread 3 checks column 205 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 206 to column 215 at time 02:23:54
+Thread 7 checks column 206 at time 02:23:54 and finds it valid
+Thread 7 checks column 207 at time 02:23:54 and finds it valid
+Thread 7 checks column 208 at time 02:23:54 and finds it valid
+Thread 7 checks column 209 at time 02:23:54 and finds it valid
+Thread 7 checks column 210 at time 02:23:54 and finds it valid
+Thread 7 checks column 211 at time 02:23:54 and finds it valid
+Thread 7 checks column 212 at time 02:23:54 and finds it valid
+Thread 7 checks column 213 at time 02:23:54 and finds it valid
+Thread 7 checks column 214 at time 02:23:54 and finds it valid
+Thread 7 checks column 215 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 186 to column 195 at time 02:23:54
+Thread 2 checks column 186 at time 02:23:54 and finds it valid
+Thread 2 checks column 187 at time 02:23:54 and finds it valid
+Thread 2 checks column 188 at time 02:23:54 and finds it valid
+Thread 2 checks column 189 at time 02:23:54 and finds it valid
+Thread 2 checks column 190 at time 02:23:54 and finds it valid
+Thread 2 checks column 191 at time 02:23:54 and finds it valid
+Thread 2 checks column 192 at time 02:23:54 and finds it valid
+Thread 2 checks column 193 at time 02:23:54 and finds it valid
+Thread 2 checks column 194 at time 02:23:54 and finds it valid
+Thread 2 checks column 195 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 226 to column 235 at time 02:23:54
+Thread 4 checks column 226 at time 02:23:54 and finds it valid
+Thread 4 checks column 227 at time 02:23:54 and finds it valid
+Thread 4 checks column 228 at time 02:23:54 and finds it valid
+Thread 4 checks column 229 at time 02:23:54 and finds it valid
+Thread 4 checks column 230 at time 02:23:54 and finds it valid
+Thread 4 checks column 231 at time 02:23:54 and finds it valid
+Thread 4 checks column 232 at time 02:23:54 and finds it valid
+Thread 4 checks column 233 at time 02:23:54 and finds it valid
+Thread 4 checks column 234 at time 02:23:54 and finds it valid
+Thread 4 checks column 235 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 216 to column 225 at time 02:23:54
+Thread 1 checks column 216 at time 02:23:54 and finds it valid
+Thread 1 checks column 217 at time 02:23:54 and finds it valid
+Thread 1 checks column 218 at time 02:23:54 and finds it valid
+Thread 1 checks column 219 at time 02:23:54 and finds it valid
+Thread 1 checks column 220 at time 02:23:54 and finds it valid
+Thread 1 checks column 221 at time 02:23:54 and finds it valid
+Thread 1 checks column 222 at time 02:23:54 and finds it valid
+Thread 1 checks column 223 at time 02:23:54 and finds it valid
+Thread 1 checks column 224 at time 02:23:54 and finds it valid
+Thread 1 checks column 225 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 236 to column 245 at time 02:23:54
+Thread 6 checks column 236 at time 02:23:54 and finds it valid
+Thread 6 checks column 237 at time 02:23:54 and finds it valid
+Thread 6 checks column 238 at time 02:23:54 and finds it valid
+Thread 6 checks column 239 at time 02:23:54 and finds it valid
+Thread 6 checks column 240 at time 02:23:54 and finds it valid
+Thread 6 checks column 241 at time 02:23:54 and finds it valid
+Thread 6 checks column 242 at time 02:23:54 and finds it valid
+Thread 6 checks column 243 at time 02:23:54 and finds it valid
+Thread 6 checks column 244 at time 02:23:54 and finds it valid
+Thread 6 checks column 245 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 246 to column 255 at time 02:23:54
+Thread 8 checks column 246 at time 02:23:54 and finds it valid
+Thread 8 checks column 247 at time 02:23:54 and finds it valid
+Thread 8 checks column 248 at time 02:23:54 and finds it valid
+Thread 8 checks column 249 at time 02:23:54 and finds it valid
+Thread 8 checks column 250 at time 02:23:54 and finds it valid
+Thread 8 checks column 251 at time 02:23:54 and finds it valid
+Thread 8 checks column 252 at time 02:23:54 and finds it valid
+Thread 8 checks column 253 at time 02:23:54 and finds it valid
+Thread 8 checks column 254 at time 02:23:54 and finds it valid
+Thread 8 checks column 255 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 256 to column 265 at time 02:23:54
+Thread 5 checks column 256 at time 02:23:54 and finds it valid
+Thread 5 checks column 257 at time 02:23:54 and finds it valid
+Thread 5 checks column 258 at time 02:23:54 and finds it valid
+Thread 5 checks column 259 at time 02:23:54 and finds it valid
+Thread 5 checks column 260 at time 02:23:54 and finds it valid
+Thread 5 checks column 261 at time 02:23:54 and finds it valid
+Thread 5 checks column 262 at time 02:23:54 and finds it valid
+Thread 5 checks column 263 at time 02:23:54 and finds it valid
+Thread 5 checks column 264 at time 02:23:54 and finds it valid
+Thread 5 checks column 265 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 266 to column 275 at time 02:23:54
+Thread 3 checks column 266 at time 02:23:54 and finds it valid
+Thread 3 checks column 267 at time 02:23:54 and finds it valid
+Thread 3 checks column 268 at time 02:23:54 and finds it valid
+Thread 3 checks column 269 at time 02:23:54 and finds it valid
+Thread 3 checks column 270 at time 02:23:54 and finds it valid
+Thread 3 checks column 271 at time 02:23:54 and finds it valid
+Thread 3 checks column 272 at time 02:23:54 and finds it valid
+Thread 3 checks column 273 at time 02:23:54 and finds it valid
+Thread 3 checks column 274 at time 02:23:54 and finds it valid
+Thread 3 checks column 275 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 276 to column 285 at time 02:23:54
+Thread 7 checks column 276 at time 02:23:54 and finds it valid
+Thread 7 checks column 277 at time 02:23:54 and finds it valid
+Thread 7 checks column 278 at time 02:23:54 and finds it valid
+Thread 7 checks column 279 at time 02:23:54 and finds it valid
+Thread 7 checks column 280 at time 02:23:54 and finds it valid
+Thread 7 checks column 281 at time 02:23:54 and finds it valid
+Thread 7 checks column 282 at time 02:23:54 and finds it valid
+Thread 7 checks column 283 at time 02:23:54 and finds it valid
+Thread 7 checks column 284 at time 02:23:54 and finds it valid
+Thread 7 checks column 285 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 306 to column 315 at time 02:23:54
+Thread 1 checks column 306 at time 02:23:54 and finds it valid
+Thread 1 checks column 307 at time 02:23:54 and finds it valid
+Thread 1 checks column 308 at time 02:23:54 and finds it valid
+Thread 1 checks column 309 at time 02:23:54 and finds it valid
+Thread 1 checks column 310 at time 02:23:54 and finds it valid
+Thread 1 checks column 311 at time 02:23:54 and finds it valid
+Thread 1 checks column 312 at time 02:23:54 and finds it valid
+Thread 1 checks column 313 at time 02:23:54 and finds it valid
+Thread 1 checks column 314 at time 02:23:54 and finds it valid
+Thread 1 checks column 315 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 296 to column 305 at time 02:23:54
+Thread 4 checks column 296 at time 02:23:54 and finds it valid
+Thread 4 checks column 297 at time 02:23:54 and finds it valid
+Thread 4 checks column 298 at time 02:23:54 and finds it valid
+Thread 4 checks column 299 at time 02:23:54 and finds it valid
+Thread 4 checks column 300 at time 02:23:54 and finds it valid
+Thread 4 checks column 301 at time 02:23:54 and finds it valid
+Thread 4 checks column 302 at time 02:23:54 and finds it valid
+Thread 4 checks column 303 at time 02:23:54 and finds it valid
+Thread 4 checks column 304 at time 02:23:54 and finds it valid
+Thread 4 checks column 305 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 286 to column 295 at time 02:23:54
+Thread 2 checks column 286 at time 02:23:54 and finds it valid
+Thread 2 checks column 287 at time 02:23:54 and finds it valid
+Thread 2 checks column 288 at time 02:23:54 and finds it valid
+Thread 2 checks column 289 at time 02:23:54 and finds it valid
+Thread 2 checks column 290 at time 02:23:54 and finds it valid
+Thread 2 checks column 291 at time 02:23:54 and finds it valid
+Thread 2 checks column 292 at time 02:23:54 and finds it valid
+Thread 2 checks column 293 at time 02:23:54 and finds it valid
+Thread 2 checks column 294 at time 02:23:54 and finds it valid
+Thread 2 checks column 295 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 316 to column 325 at time 02:23:54
+Thread 6 checks column 316 at time 02:23:54 and finds it valid
+Thread 6 checks column 317 at time 02:23:54 and finds it valid
+Thread 6 checks column 318 at time 02:23:54 and finds it valid
+Thread 6 checks column 319 at time 02:23:54 and finds it valid
+Thread 6 checks column 320 at time 02:23:54 and finds it valid
+Thread 6 checks column 321 at time 02:23:54 and finds it valid
+Thread 6 checks column 322 at time 02:23:54 and finds it valid
+Thread 6 checks column 323 at time 02:23:54 and finds it valid
+Thread 6 checks column 324 at time 02:23:54 and finds it valid
+Thread 6 checks column 325 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 336 to column 345 at time 02:23:54
+Thread 5 checks column 336 at time 02:23:54 and finds it valid
+Thread 5 checks column 337 at time 02:23:54 and finds it valid
+Thread 5 checks column 338 at time 02:23:54 and finds it valid
+Thread 5 checks column 339 at time 02:23:54 and finds it valid
+Thread 5 checks column 340 at time 02:23:54 and finds it valid
+Thread 5 checks column 341 at time 02:23:54 and finds it valid
+Thread 5 checks column 342 at time 02:23:54 and finds it valid
+Thread 5 checks column 343 at time 02:23:54 and finds it valid
+Thread 5 checks column 344 at time 02:23:54 and finds it valid
+Thread 5 checks column 345 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 326 to column 335 at time 02:23:54
+Thread 8 checks column 326 at time 02:23:54 and finds it valid
+Thread 8 checks column 327 at time 02:23:54 and finds it valid
+Thread 8 checks column 328 at time 02:23:54 and finds it valid
+Thread 8 checks column 329 at time 02:23:54 and finds it valid
+Thread 8 checks column 330 at time 02:23:54 and finds it valid
+Thread 8 checks column 331 at time 02:23:54 and finds it valid
+Thread 8 checks column 332 at time 02:23:54 and finds it valid
+Thread 8 checks column 333 at time 02:23:54 and finds it valid
+Thread 8 checks column 334 at time 02:23:54 and finds it valid
+Thread 8 checks column 335 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 356 to column 365 at time 02:23:54
+Thread 7 checks column 356 at time 02:23:54 and finds it valid
+Thread 7 checks column 357 at time 02:23:54 and finds it valid
+Thread 7 checks column 358 at time 02:23:54 and finds it valid
+Thread 7 checks column 359 at time 02:23:54 and finds it valid
+Thread 7 checks column 360 at time 02:23:54 and finds it valid
+Thread 7 checks column 361 at time 02:23:54 and finds it valid
+Thread 7 checks column 362 at time 02:23:54 and finds it valid
+Thread 7 checks column 363 at time 02:23:54 and finds it valid
+Thread 7 checks column 364 at time 02:23:54 and finds it valid
+Thread 7 checks column 365 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 346 to column 355 at time 02:23:54
+Thread 3 checks column 346 at time 02:23:54 and finds it valid
+Thread 3 checks column 347 at time 02:23:54 and finds it valid
+Thread 3 checks column 348 at time 02:23:54 and finds it valid
+Thread 3 checks column 349 at time 02:23:54 and finds it valid
+Thread 3 checks column 350 at time 02:23:54 and finds it valid
+Thread 3 checks column 351 at time 02:23:54 and finds it valid
+Thread 3 checks column 352 at time 02:23:54 and finds it valid
+Thread 3 checks column 353 at time 02:23:54 and finds it valid
+Thread 3 checks column 354 at time 02:23:54 and finds it valid
+Thread 3 checks column 355 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 376 to column 385 at time 02:23:54
+Thread 4 checks column 376 at time 02:23:54 and finds it valid
+Thread 4 checks column 377 at time 02:23:54 and finds it valid
+Thread 4 checks column 378 at time 02:23:54 and finds it valid
+Thread 4 checks column 379 at time 02:23:54 and finds it valid
+Thread 4 checks column 380 at time 02:23:54 and finds it valid
+Thread 4 checks column 381 at time 02:23:54 and finds it valid
+Thread 4 checks column 382 at time 02:23:54 and finds it valid
+Thread 4 checks column 383 at time 02:23:54 and finds it valid
+Thread 4 checks column 384 at time 02:23:54 and finds it valid
+Thread 4 checks column 385 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 366 to column 375 at time 02:23:54
+Thread 1 checks column 366 at time 02:23:54 and finds it valid
+Thread 1 checks column 367 at time 02:23:54 and finds it valid
+Thread 1 checks column 368 at time 02:23:54 and finds it valid
+Thread 1 checks column 369 at time 02:23:54 and finds it valid
+Thread 1 checks column 370 at time 02:23:54 and finds it valid
+Thread 1 checks column 371 at time 02:23:54 and finds it valid
+Thread 1 checks column 372 at time 02:23:54 and finds it valid
+Thread 1 checks column 373 at time 02:23:54 and finds it valid
+Thread 1 checks column 374 at time 02:23:54 and finds it valid
+Thread 1 checks column 375 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 386 to column 395 at time 02:23:54
+Thread 2 checks column 386 at time 02:23:54 and finds it valid
+Thread 2 checks column 387 at time 02:23:54 and finds it valid
+Thread 2 checks column 388 at time 02:23:54 and finds it valid
+Thread 2 checks column 389 at time 02:23:54 and finds it valid
+Thread 2 checks column 390 at time 02:23:54 and finds it valid
+Thread 2 checks column 391 at time 02:23:54 and finds it valid
+Thread 2 checks column 392 at time 02:23:54 and finds it valid
+Thread 2 checks column 393 at time 02:23:54 and finds it valid
+Thread 2 checks column 394 at time 02:23:54 and finds it valid
+Thread 2 checks column 395 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 396 to column 405 at time 02:23:54
+Thread 6 checks column 396 at time 02:23:54 and finds it valid
+Thread 6 checks column 397 at time 02:23:54 and finds it valid
+Thread 6 checks column 398 at time 02:23:54 and finds it valid
+Thread 6 checks column 399 at time 02:23:54 and finds it valid
+Thread 6 checks column 400 at time 02:23:54 and finds it valid
+Thread 6 checks column 401 at time 02:23:54 and finds it valid
+Thread 6 checks column 402 at time 02:23:54 and finds it valid
+Thread 6 checks column 403 at time 02:23:54 and finds it valid
+Thread 6 checks column 404 at time 02:23:54 and finds it valid
+Thread 6 checks column 405 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 406 to column 415 at time 02:23:54
+Thread 5 checks column 406 at time 02:23:54 and finds it valid
+Thread 5 checks column 407 at time 02:23:54 and finds it valid
+Thread 5 checks column 408 at time 02:23:54 and finds it valid
+Thread 5 checks column 409 at time 02:23:54 and finds it valid
+Thread 5 checks column 410 at time 02:23:54 and finds it valid
+Thread 5 checks column 411 at time 02:23:54 and finds it valid
+Thread 5 checks column 412 at time 02:23:54 and finds it valid
+Thread 5 checks column 413 at time 02:23:54 and finds it valid
+Thread 5 checks column 414 at time 02:23:54 and finds it valid
+Thread 5 checks column 415 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 416 to column 425 at time 02:23:54
+Thread 8 checks column 416 at time 02:23:54 and finds it valid
+Thread 8 checks column 417 at time 02:23:54 and finds it valid
+Thread 8 checks column 418 at time 02:23:54 and finds it valid
+Thread 8 checks column 419 at time 02:23:54 and finds it valid
+Thread 8 checks column 420 at time 02:23:54 and finds it valid
+Thread 8 checks column 421 at time 02:23:54 and finds it valid
+Thread 8 checks column 422 at time 02:23:54 and finds it valid
+Thread 8 checks column 423 at time 02:23:54 and finds it valid
+Thread 8 checks column 424 at time 02:23:54 and finds it valid
+Thread 8 checks column 425 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 426 to column 435 at time 02:23:54
+Thread 7 checks column 426 at time 02:23:54 and finds it valid
+Thread 7 checks column 427 at time 02:23:54 and finds it valid
+Thread 7 checks column 428 at time 02:23:54 and finds it valid
+Thread 7 checks column 429 at time 02:23:54 and finds it valid
+Thread 7 checks column 430 at time 02:23:54 and finds it valid
+Thread 7 checks column 431 at time 02:23:54 and finds it valid
+Thread 7 checks column 432 at time 02:23:54 and finds it valid
+Thread 7 checks column 433 at time 02:23:54 and finds it valid
+Thread 7 checks column 434 at time 02:23:54 and finds it valid
+Thread 7 checks column 435 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 436 to column 445 at time 02:23:54
+Thread 3 checks column 436 at time 02:23:54 and finds it valid
+Thread 3 checks column 437 at time 02:23:54 and finds it valid
+Thread 3 checks column 438 at time 02:23:54 and finds it valid
+Thread 3 checks column 439 at time 02:23:54 and finds it valid
+Thread 3 checks column 440 at time 02:23:54 and finds it valid
+Thread 3 checks column 441 at time 02:23:54 and finds it valid
+Thread 3 checks column 442 at time 02:23:54 and finds it valid
+Thread 3 checks column 443 at time 02:23:54 and finds it valid
+Thread 3 checks column 444 at time 02:23:54 and finds it valid
+Thread 3 checks column 445 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 456 to column 465 at time 02:23:54
+Thread 1 checks column 456 at time 02:23:54 and finds it valid
+Thread 1 checks column 457 at time 02:23:54 and finds it valid
+Thread 1 checks column 458 at time 02:23:54 and finds it valid
+Thread 1 checks column 459 at time 02:23:54 and finds it valid
+Thread 1 checks column 460 at time 02:23:54 and finds it valid
+Thread 1 checks column 461 at time 02:23:54 and finds it valid
+Thread 1 checks column 462 at time 02:23:54 and finds it valid
+Thread 1 checks column 463 at time 02:23:54 and finds it valid
+Thread 1 checks column 464 at time 02:23:54 and finds it valid
+Thread 1 checks column 465 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 446 to column 455 at time 02:23:54
+Thread 4 checks column 446 at time 02:23:54 and finds it valid
+Thread 4 checks column 447 at time 02:23:54 and finds it valid
+Thread 4 checks column 448 at time 02:23:54 and finds it valid
+Thread 4 checks column 449 at time 02:23:54 and finds it valid
+Thread 4 checks column 450 at time 02:23:54 and finds it valid
+Thread 4 checks column 451 at time 02:23:54 and finds it valid
+Thread 4 checks column 452 at time 02:23:54 and finds it valid
+Thread 4 checks column 453 at time 02:23:54 and finds it valid
+Thread 4 checks column 454 at time 02:23:54 and finds it valid
+Thread 4 checks column 455 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 466 to column 475 at time 02:23:54
+Thread 2 checks column 466 at time 02:23:54 and finds it valid
+Thread 2 checks column 467 at time 02:23:54 and finds it valid
+Thread 2 checks column 468 at time 02:23:54 and finds it valid
+Thread 2 checks column 469 at time 02:23:54 and finds it valid
+Thread 2 checks column 470 at time 02:23:54 and finds it valid
+Thread 2 checks column 471 at time 02:23:54 and finds it valid
+Thread 2 checks column 472 at time 02:23:54 and finds it valid
+Thread 2 checks column 473 at time 02:23:54 and finds it valid
+Thread 2 checks column 474 at time 02:23:54 and finds it valid
+Thread 2 checks column 475 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 476 to column 485 at time 02:23:54
+Thread 6 checks column 476 at time 02:23:54 and finds it valid
+Thread 6 checks column 477 at time 02:23:54 and finds it valid
+Thread 6 checks column 478 at time 02:23:54 and finds it valid
+Thread 6 checks column 479 at time 02:23:54 and finds it valid
+Thread 6 checks column 480 at time 02:23:54 and finds it valid
+Thread 6 checks column 481 at time 02:23:54 and finds it valid
+Thread 6 checks column 482 at time 02:23:54 and finds it valid
+Thread 6 checks column 483 at time 02:23:54 and finds it valid
+Thread 6 checks column 484 at time 02:23:54 and finds it valid
+Thread 6 checks column 485 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 486 to column 495 at time 02:23:54
+Thread 5 checks column 486 at time 02:23:54 and finds it valid
+Thread 5 checks column 487 at time 02:23:54 and finds it valid
+Thread 5 checks column 488 at time 02:23:54 and finds it valid
+Thread 5 checks column 489 at time 02:23:54 and finds it valid
+Thread 5 checks column 490 at time 02:23:54 and finds it valid
+Thread 5 checks column 491 at time 02:23:54 and finds it valid
+Thread 5 checks column 492 at time 02:23:54 and finds it valid
+Thread 5 checks column 493 at time 02:23:54 and finds it valid
+Thread 5 checks column 494 at time 02:23:54 and finds it valid
+Thread 5 checks column 495 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 496 to column 505 at time 02:23:54
+Thread 8 checks column 496 at time 02:23:54 and finds it valid
+Thread 8 checks column 497 at time 02:23:54 and finds it valid
+Thread 8 checks column 498 at time 02:23:54 and finds it valid
+Thread 8 checks column 499 at time 02:23:54 and finds it valid
+Thread 8 checks column 500 at time 02:23:54 and finds it valid
+Thread 8 checks column 501 at time 02:23:54 and finds it valid
+Thread 8 checks column 502 at time 02:23:54 and finds it valid
+Thread 8 checks column 503 at time 02:23:54 and finds it valid
+Thread 8 checks column 504 at time 02:23:54 and finds it valid
+Thread 8 checks column 505 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 516 to column 525 at time 02:23:54
+Thread 3 checks column 516 at time 02:23:54 and finds it valid
+Thread 3 checks column 517 at time 02:23:54 and finds it valid
+Thread 3 checks column 518 at time 02:23:54 and finds it valid
+Thread 3 checks column 519 at time 02:23:54 and finds it valid
+Thread 3 checks column 520 at time 02:23:54 and finds it valid
+Thread 3 checks column 521 at time 02:23:54 and finds it valid
+Thread 3 checks column 522 at time 02:23:54 and finds it valid
+Thread 3 checks column 523 at time 02:23:54 and finds it valid
+Thread 3 checks column 524 at time 02:23:54 and finds it valid
+Thread 3 checks column 525 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 506 to column 515 at time 02:23:54
+Thread 7 checks column 506 at time 02:23:54 and finds it valid
+Thread 7 checks column 507 at time 02:23:54 and finds it valid
+Thread 7 checks column 508 at time 02:23:54 and finds it valid
+Thread 7 checks column 509 at time 02:23:54 and finds it valid
+Thread 7 checks column 510 at time 02:23:54 and finds it valid
+Thread 7 checks column 511 at time 02:23:54 and finds it valid
+Thread 7 checks column 512 at time 02:23:54 and finds it valid
+Thread 7 checks column 513 at time 02:23:54 and finds it valid
+Thread 7 checks column 514 at time 02:23:54 and finds it valid
+Thread 7 checks column 515 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 526 to column 535 at time 02:23:54
+Thread 1 checks column 526 at time 02:23:54 and finds it valid
+Thread 1 checks column 527 at time 02:23:54 and finds it valid
+Thread 1 checks column 528 at time 02:23:54 and finds it valid
+Thread 1 checks column 529 at time 02:23:54 and finds it valid
+Thread 1 checks column 530 at time 02:23:54 and finds it valid
+Thread 1 checks column 531 at time 02:23:54 and finds it valid
+Thread 1 checks column 532 at time 02:23:54 and finds it valid
+Thread 1 checks column 533 at time 02:23:54 and finds it valid
+Thread 1 checks column 534 at time 02:23:54 and finds it valid
+Thread 1 checks column 535 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 546 to column 555 at time 02:23:54
+Thread 2 checks column 546 at time 02:23:54 and finds it valid
+Thread 2 checks column 547 at time 02:23:54 and finds it valid
+Thread 2 checks column 548 at time 02:23:54 and finds it valid
+Thread 2 checks column 549 at time 02:23:54 and finds it valid
+Thread 2 checks column 550 at time 02:23:54 and finds it valid
+Thread 2 checks column 551 at time 02:23:54 and finds it valid
+Thread 2 checks column 552 at time 02:23:54 and finds it valid
+Thread 2 checks column 553 at time 02:23:54 and finds it valid
+Thread 2 checks column 554 at time 02:23:54 and finds it valid
+Thread 2 checks column 555 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs column 536 to column 545 at time 02:23:54
+Thread 4 checks column 536 at time 02:23:54 and finds it valid
+Thread 4 checks column 537 at time 02:23:54 and finds it valid
+Thread 4 checks column 538 at time 02:23:54 and finds it valid
+Thread 4 checks column 539 at time 02:23:54 and finds it valid
+Thread 4 checks column 540 at time 02:23:54 and finds it valid
+Thread 4 checks column 541 at time 02:23:54 and finds it valid
+Thread 4 checks column 542 at time 02:23:54 and finds it valid
+Thread 4 checks column 543 at time 02:23:54 and finds it valid
+Thread 4 checks column 544 at time 02:23:54 and finds it valid
+Thread 4 checks column 545 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs column 556 to column 565 at time 02:23:54
+Thread 6 checks column 556 at time 02:23:54 and finds it valid
+Thread 6 checks column 557 at time 02:23:54 and finds it valid
+Thread 6 checks column 558 at time 02:23:54 and finds it valid
+Thread 6 checks column 559 at time 02:23:54 and finds it valid
+Thread 6 checks column 560 at time 02:23:54 and finds it valid
+Thread 6 checks column 561 at time 02:23:54 and finds it valid
+Thread 6 checks column 562 at time 02:23:54 and finds it valid
+Thread 6 checks column 563 at time 02:23:54 and finds it valid
+Thread 6 checks column 564 at time 02:23:54 and finds it valid
+Thread 6 checks column 565 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs column 566 to column 575 at time 02:23:54
+Thread 5 checks column 566 at time 02:23:54 and finds it valid
+Thread 5 checks column 567 at time 02:23:54 and finds it valid
+Thread 5 checks column 568 at time 02:23:54 and finds it valid
+Thread 5 checks column 569 at time 02:23:54 and finds it valid
+Thread 5 checks column 570 at time 02:23:54 and finds it valid
+Thread 5 checks column 571 at time 02:23:54 and finds it valid
+Thread 5 checks column 572 at time 02:23:54 and finds it valid
+Thread 5 checks column 573 at time 02:23:54 and finds it valid
+Thread 5 checks column 574 at time 02:23:54 and finds it valid
+Thread 5 checks column 575 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs column 576 to column 585 at time 02:23:54
+Thread 8 checks column 576 at time 02:23:54 and finds it valid
+Thread 8 checks column 577 at time 02:23:54 and finds it valid
+Thread 8 checks column 578 at time 02:23:54 and finds it valid
+Thread 8 checks column 579 at time 02:23:54 and finds it valid
+Thread 8 checks column 580 at time 02:23:54 and finds it valid
+Thread 8 checks column 581 at time 02:23:54 and finds it valid
+Thread 8 checks column 582 at time 02:23:54 and finds it valid
+Thread 8 checks column 583 at time 02:23:54 and finds it valid
+Thread 8 checks column 584 at time 02:23:54 and finds it valid
+Thread 8 checks column 585 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs column 586 to column 595 at time 02:23:54
+Thread 3 checks column 586 at time 02:23:54 and finds it valid
+Thread 3 checks column 587 at time 02:23:54 and finds it valid
+Thread 3 checks column 588 at time 02:23:54 and finds it valid
+Thread 3 checks column 589 at time 02:23:54 and finds it valid
+Thread 3 checks column 590 at time 02:23:54 and finds it valid
+Thread 3 checks column 591 at time 02:23:54 and finds it valid
+Thread 3 checks column 592 at time 02:23:54 and finds it valid
+Thread 3 checks column 593 at time 02:23:54 and finds it valid
+Thread 3 checks column 594 at time 02:23:54 and finds it valid
+Thread 3 checks column 595 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs column 606 to column 615 at time 02:23:54
+Thread 1 checks column 606 at time 02:23:54 and finds it valid
+Thread 1 checks column 607 at time 02:23:54 and finds it valid
+Thread 1 checks column 608 at time 02:23:54 and finds it valid
+Thread 1 checks column 609 at time 02:23:54 and finds it valid
+Thread 1 checks column 610 at time 02:23:54 and finds it valid
+Thread 1 checks column 611 at time 02:23:54 and finds it valid
+Thread 1 checks column 612 at time 02:23:54 and finds it valid
+Thread 1 checks column 613 at time 02:23:54 and finds it valid
+Thread 1 checks column 614 at time 02:23:54 and finds it valid
+Thread 1 checks column 615 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs column 616 to column 625 at time 02:23:54
+Thread 2 checks column 616 at time 02:23:54 and finds it valid
+Thread 2 checks column 617 at time 02:23:54 and finds it valid
+Thread 2 checks column 618 at time 02:23:54 and finds it valid
+Thread 2 checks column 619 at time 02:23:54 and finds it valid
+Thread 2 checks column 620 at time 02:23:54 and finds it valid
+Thread 2 checks column 621 at time 02:23:54 and finds it valid
+Thread 2 checks column 622 at time 02:23:54 and finds it valid
+Thread 2 checks column 623 at time 02:23:54 and finds it valid
+Thread 2 checks column 624 at time 02:23:54 and finds it valid
+Thread 2 checks column 625 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 1 to grid 10 at time 02:23:54
+Thread 4 checks grid 1 at time 02:23:54 and finds it valid
+Thread 4 checks grid 2 at time 02:23:54 and finds it valid
+Thread 4 checks grid 3 at time 02:23:54 and finds it valid
+Thread 4 checks grid 4 at time 02:23:54 and finds it valid
+Thread 4 checks grid 5 at time 02:23:54 and finds it valid
+Thread 4 checks grid 6 at time 02:23:54 and finds it valid
+Thread 4 checks grid 7 at time 02:23:54 and finds it valid
+Thread 4 checks grid 8 at time 02:23:54 and finds it valid
+Thread 4 checks grid 9 at time 02:23:54 and finds it valid
+Thread 4 checks grid 10 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 31 to grid 40 at time 02:23:54
+Thread 8 checks grid 31 at time 02:23:54 and finds it valid
+Thread 8 checks grid 32 at time 02:23:54 and finds it valid
+Thread 8 checks grid 33 at time 02:23:54 and finds it valid
+Thread 8 checks grid 34 at time 02:23:54 and finds it valid
+Thread 8 checks grid 35 at time 02:23:54 and finds it valid
+Thread 8 checks grid 36 at time 02:23:54 and finds it valid
+Thread 8 checks grid 37 at time 02:23:54 and finds it valid
+Thread 8 checks grid 38 at time 02:23:54 and finds it valid
+Thread 8 checks grid 39 at time 02:23:54 and finds it valid
+Thread 8 checks grid 40 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 21 to grid 30 at time 02:23:54
+Thread 5 checks grid 21 at time 02:23:54 and finds it valid
+Thread 5 checks grid 22 at time 02:23:54 and finds it valid
+Thread 5 checks grid 23 at time 02:23:54 and finds it valid
+Thread 5 checks grid 24 at time 02:23:54 and finds it valid
+Thread 5 checks grid 25 at time 02:23:54 and finds it valid
+Thread 5 checks grid 26 at time 02:23:54 and finds it valid
+Thread 5 checks grid 27 at time 02:23:54 and finds it valid
+Thread 5 checks grid 28 at time 02:23:54 and finds it valid
+Thread 5 checks grid 29 at time 02:23:54 and finds it valid
+Thread 5 checks grid 30 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 41 to grid 50 at time 02:23:54
+Thread 3 checks grid 41 at time 02:23:54 and finds it valid
+Thread 3 checks grid 42 at time 02:23:54 and finds it valid
+Thread 3 checks grid 43 at time 02:23:54 and finds it valid
+Thread 3 checks grid 44 at time 02:23:54 and finds it valid
+Thread 3 checks grid 45 at time 02:23:54 and finds it valid
+Thread 3 checks grid 46 at time 02:23:54 and finds it valid
+Thread 3 checks grid 47 at time 02:23:54 and finds it valid
+Thread 3 checks grid 48 at time 02:23:54 and finds it valid
+Thread 3 checks grid 49 at time 02:23:54 and finds it valid
+Thread 3 checks grid 50 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs grid 51 to grid 60 at time 02:23:54
+Thread 1 checks grid 51 at time 02:23:54 and finds it valid
+Thread 1 checks grid 52 at time 02:23:54 and finds it valid
+Thread 1 checks grid 53 at time 02:23:54 and finds it valid
+Thread 1 checks grid 54 at time 02:23:54 and finds it valid
+Thread 1 checks grid 55 at time 02:23:54 and finds it valid
+Thread 1 checks grid 56 at time 02:23:54 and finds it valid
+Thread 1 checks grid 57 at time 02:23:54 and finds it valid
+Thread 1 checks grid 58 at time 02:23:54 and finds it valid
+Thread 1 checks grid 59 at time 02:23:54 and finds it valid
+Thread 1 checks grid 60 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 71 to grid 80 at time 02:23:54
+Thread 4 checks grid 71 at time 02:23:54 and finds it valid
+Thread 4 checks grid 72 at time 02:23:54 and finds it valid
+Thread 4 checks grid 73 at time 02:23:54 and finds it valid
+Thread 4 checks grid 74 at time 02:23:54 and finds it valid
+Thread 4 checks grid 75 at time 02:23:54 and finds it valid
+Thread 4 checks grid 76 at time 02:23:54 and finds it valid
+Thread 4 checks grid 77 at time 02:23:54 and finds it valid
+Thread 4 checks grid 78 at time 02:23:54 and finds it valid
+Thread 4 checks grid 79 at time 02:23:54 and finds it valid
+Thread 4 checks grid 80 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs grid 61 to grid 70 at time 02:23:54
+Thread 2 checks grid 61 at time 02:23:54 and finds it valid
+Thread 2 checks grid 62 at time 02:23:54 and finds it valid
+Thread 2 checks grid 63 at time 02:23:54 and finds it valid
+Thread 2 checks grid 64 at time 02:23:54 and finds it valid
+Thread 2 checks grid 65 at time 02:23:54 and finds it valid
+Thread 2 checks grid 66 at time 02:23:54 and finds it valid
+Thread 2 checks grid 67 at time 02:23:54 and finds it valid
+Thread 2 checks grid 68 at time 02:23:54 and finds it valid
+Thread 2 checks grid 69 at time 02:23:54 and finds it valid
+Thread 2 checks grid 70 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs column 596 to column 605 at time 02:23:54
+Thread 7 checks column 596 at time 02:23:54 and finds it valid
+Thread 7 checks column 597 at time 02:23:54 and finds it valid
+Thread 7 checks column 598 at time 02:23:54 and finds it valid
+Thread 7 checks column 599 at time 02:23:54 and finds it valid
+Thread 7 checks column 600 at time 02:23:54 and finds it valid
+Thread 7 checks column 601 at time 02:23:54 and finds it valid
+Thread 7 checks column 602 at time 02:23:54 and finds it valid
+Thread 7 checks column 603 at time 02:23:54 and finds it valid
+Thread 7 checks column 604 at time 02:23:54 and finds it valid
+Thread 7 checks column 605 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 81 to grid 90 at time 02:23:54
+Thread 8 checks grid 81 at time 02:23:54 and finds it valid
+Thread 8 checks grid 82 at time 02:23:54 and finds it valid
+Thread 8 checks grid 83 at time 02:23:54 and finds it valid
+Thread 8 checks grid 84 at time 02:23:54 and finds it valid
+Thread 8 checks grid 85 at time 02:23:54 and finds it valid
+Thread 8 checks grid 86 at time 02:23:54 and finds it valid
+Thread 8 checks grid 87 at time 02:23:54 and finds it valid
+Thread 8 checks grid 88 at time 02:23:54 and finds it valid
+Thread 8 checks grid 89 at time 02:23:54 and finds it valid
+Thread 8 checks grid 90 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 11 to grid 20 at time 02:23:54
+Thread 6 checks grid 11 at time 02:23:54 and finds it valid
+Thread 6 checks grid 12 at time 02:23:54 and finds it valid
+Thread 6 checks grid 13 at time 02:23:54 and finds it valid
+Thread 6 checks grid 14 at time 02:23:54 and finds it valid
+Thread 6 checks grid 15 at time 02:23:54 and finds it valid
+Thread 6 checks grid 16 at time 02:23:54 and finds it valid
+Thread 6 checks grid 17 at time 02:23:54 and finds it valid
+Thread 6 checks grid 18 at time 02:23:54 and finds it valid
+Thread 6 checks grid 19 at time 02:23:54 and finds it valid
+Thread 6 checks grid 20 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 101 to grid 110 at time 02:23:54
+Thread 3 checks grid 101 at time 02:23:54 and finds it valid
+Thread 3 checks grid 102 at time 02:23:54 and finds it valid
+Thread 3 checks grid 103 at time 02:23:54 and finds it valid
+Thread 3 checks grid 104 at time 02:23:54 and finds it valid
+Thread 3 checks grid 105 at time 02:23:54 and finds it valid
+Thread 3 checks grid 106 at time 02:23:54 and finds it valid
+Thread 3 checks grid 107 at time 02:23:54 and finds it valid
+Thread 3 checks grid 108 at time 02:23:54 and finds it valid
+Thread 3 checks grid 109 at time 02:23:54 and finds it valid
+Thread 3 checks grid 110 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs grid 111 to grid 120 at time 02:23:54
+Thread 1 checks grid 111 at time 02:23:54 and finds it valid
+Thread 1 checks grid 112 at time 02:23:54 and finds it valid
+Thread 1 checks grid 113 at time 02:23:54 and finds it valid
+Thread 1 checks grid 114 at time 02:23:54 and finds it valid
+Thread 1 checks grid 115 at time 02:23:54 and finds it valid
+Thread 1 checks grid 116 at time 02:23:54 and finds it valid
+Thread 1 checks grid 117 at time 02:23:54 and finds it valid
+Thread 1 checks grid 118 at time 02:23:54 and finds it valid
+Thread 1 checks grid 119 at time 02:23:54 and finds it valid
+Thread 1 checks grid 120 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 91 to grid 100 at time 02:23:54
+Thread 5 checks grid 91 at time 02:23:54 and finds it valid
+Thread 5 checks grid 92 at time 02:23:54 and finds it valid
+Thread 5 checks grid 93 at time 02:23:54 and finds it valid
+Thread 5 checks grid 94 at time 02:23:54 and finds it valid
+Thread 5 checks grid 95 at time 02:23:54 and finds it valid
+Thread 5 checks grid 96 at time 02:23:54 and finds it valid
+Thread 5 checks grid 97 at time 02:23:54 and finds it valid
+Thread 5 checks grid 98 at time 02:23:54 and finds it valid
+Thread 5 checks grid 99 at time 02:23:54 and finds it valid
+Thread 5 checks grid 100 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 121 to grid 130 at time 02:23:54
+Thread 4 checks grid 121 at time 02:23:54 and finds it valid
+Thread 4 checks grid 122 at time 02:23:54 and finds it valid
+Thread 4 checks grid 123 at time 02:23:54 and finds it valid
+Thread 4 checks grid 124 at time 02:23:54 and finds it valid
+Thread 4 checks grid 125 at time 02:23:54 and finds it valid
+Thread 4 checks grid 126 at time 02:23:54 and finds it valid
+Thread 4 checks grid 127 at time 02:23:54 and finds it valid
+Thread 4 checks grid 128 at time 02:23:54 and finds it valid
+Thread 4 checks grid 129 at time 02:23:54 and finds it valid
+Thread 4 checks grid 130 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 141 to grid 150 at time 02:23:54
+Thread 7 checks grid 141 at time 02:23:54 and finds it valid
+Thread 7 checks grid 142 at time 02:23:54 and finds it valid
+Thread 7 checks grid 143 at time 02:23:54 and finds it valid
+Thread 7 checks grid 144 at time 02:23:54 and finds it valid
+Thread 7 checks grid 145 at time 02:23:54 and finds it valid
+Thread 7 checks grid 146 at time 02:23:54 and finds it valid
+Thread 7 checks grid 147 at time 02:23:54 and finds it valid
+Thread 7 checks grid 148 at time 02:23:54 and finds it valid
+Thread 7 checks grid 149 at time 02:23:54 and finds it valid
+Thread 7 checks grid 150 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 161 to grid 170 at time 02:23:54
+Thread 6 checks grid 161 at time 02:23:54 and finds it valid
+Thread 6 checks grid 162 at time 02:23:54 and finds it valid
+Thread 6 checks grid 163 at time 02:23:54 and finds it valid
+Thread 6 checks grid 164 at time 02:23:54 and finds it valid
+Thread 6 checks grid 165 at time 02:23:54 and finds it valid
+Thread 6 checks grid 166 at time 02:23:54 and finds it valid
+Thread 6 checks grid 167 at time 02:23:54 and finds it valid
+Thread 6 checks grid 168 at time 20:53:54 and finds it valid
+Thread 6 checks grid 169 at time 02:23:54 and finds it valid
+Thread 6 checks grid 170 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 171 to grid 180 at time 02:23:54
+Thread 3 checks grid 171 at time 02:23:54 and finds it valid
+Thread 3 checks grid 172 at time 02:23:54 and finds it valid
+Thread 3 checks grid 173 at time 02:23:54 and finds it valid
+Thread 3 checks grid 174 at time 02:23:54 and finds it valid
+Thread 3 checks grid 175 at time 02:23:54 and finds it valid
+Thread 3 checks grid 176 at time 02:23:54 and finds it valid
+Thread 3 checks grid 177 at time 02:23:54 and finds it valid
+Thread 3 checks grid 178 at time 02:23:54 and finds it valid
+Thread 3 checks grid 179 at time 02:23:54 and finds it valid
+Thread 3 checks grid 180 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 151 to grid 160 at time 02:23:54
+Thread 8 checks grid 151 at time 02:23:54 and finds it valid
+Thread 8 checks grid 152 at time 02:23:54 and finds it valid
+Thread 8 checks grid 153 at time 02:23:54 and finds it valid
+Thread 8 checks grid 154 at time 02:23:54 and finds it valid
+Thread 8 checks grid 155 at time 02:23:54 and finds it valid
+Thread 8 checks grid 156 at time 02:23:54 and finds it valid
+Thread 8 checks grid 157 at time 02:23:54 and finds it valid
+Thread 8 checks grid 158 at time 02:23:54 and finds it valid
+Thread 8 checks grid 159 at time 02:23:54 and finds it valid
+Thread 8 checks grid 160 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 191 to grid 200 at time 02:23:54
+Thread 5 checks grid 191 at time 02:23:54 and finds it valid
+Thread 5 checks grid 192 at time 02:23:54 and finds it valid
+Thread 5 checks grid 193 at time 02:23:54 and finds it valid
+Thread 5 checks grid 194 at time 02:23:54 and finds it valid
+Thread 5 checks grid 195 at time 02:23:54 and finds it valid
+Thread 5 checks grid 196 at time 02:23:54 and finds it valid
+Thread 5 checks grid 197 at time 02:23:54 and finds it valid
+Thread 5 checks grid 198 at time 02:23:54 and finds it valid
+Thread 5 checks grid 199 at time 02:23:54 and finds it valid
+Thread 5 checks grid 200 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 211 to grid 220 at time 02:23:54
+Thread 7 checks grid 211 at time 02:23:54 and finds it valid
+Thread 7 checks grid 212 at time 02:23:54 and finds it valid
+Thread 7 checks grid 213 at time 02:23:54 and finds it valid
+Thread 7 checks grid 214 at time 02:23:54 and finds it valid
+Thread 7 checks grid 215 at time 02:23:54 and finds it valid
+Thread 7 checks grid 216 at time 02:23:54 and finds it valid
+Thread 7 checks grid 217 at time 02:23:54 and finds it valid
+Thread 7 checks grid 218 at time 02:23:54 and finds it valid
+Thread 7 checks grid 219 at time 02:23:54 and finds it valid
+Thread 7 checks grid 220 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs grid 131 to grid 140 at time 02:23:54
+Thread 2 checks grid 131 at time 02:23:54 and finds it valid
+Thread 2 checks grid 132 at time 02:23:54 and finds it valid
+Thread 2 checks grid 133 at time 02:23:54 and finds it valid
+Thread 2 checks grid 134 at time 02:23:54 and finds it valid
+Thread 2 checks grid 135 at time 02:23:54 and finds it valid
+Thread 2 checks grid 136 at time 02:23:54 and finds it valid
+Thread 2 checks grid 137 at time 02:23:54 and finds it valid
+Thread 2 checks grid 138 at time 02:23:54 and finds it valid
+Thread 2 checks grid 139 at time 02:23:54 and finds it valid
+Thread 2 checks grid 140 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:53:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs grid 181 to grid 190 at time 20:53:54
+Thread 1 checks grid 181 at time 02:23:54 and finds it valid
+Thread 1 checks grid 182 at time 02:23:54 and finds it valid
+Thread 1 checks grid 183 at time 02:23:54 and finds it valid
+Thread 1 checks grid 184 at time 02:23:54 and finds it valid
+Thread 1 checks grid 185 at time 02:23:54 and finds it valid
+Thread 1 checks grid 186 at time 02:23:54 and finds it valid
+Thread 1 checks grid 187 at time 02:23:54 and finds it valid
+Thread 1 checks grid 188 at time 02:23:54 and finds it valid
+Thread 1 checks grid 189 at time 02:23:54 and finds it valid
+Thread 1 checks grid 190 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 201 to grid 210 at time 02:23:54
+Thread 4 checks grid 201 at time 02:23:54 and finds it valid
+Thread 4 checks grid 202 at time 02:23:54 and finds it valid
+Thread 4 checks grid 203 at time 02:23:54 and finds it valid
+Thread 4 checks grid 204 at time 02:23:54 and finds it valid
+Thread 4 checks grid 205 at time 02:23:54 and finds it valid
+Thread 4 checks grid 206 at time 02:23:54 and finds it valid
+Thread 4 checks grid 207 at time 02:23:54 and finds it valid
+Thread 4 checks grid 208 at time 02:23:54 and finds it valid
+Thread 4 checks grid 209 at time 02:23:54 and finds it valid
+Thread 4 checks grid 210 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 231 to grid 240 at time 02:23:54
+Thread 8 checks grid 231 at time 02:23:54 and finds it valid
+Thread 8 checks grid 232 at time 02:23:54 and finds it valid
+Thread 8 checks grid 233 at time 02:23:54 and finds it valid
+Thread 8 checks grid 234 at time 02:23:54 and finds it valid
+Thread 8 checks grid 235 at time 02:23:54 and finds it valid
+Thread 8 checks grid 236 at time 02:23:54 and finds it valid
+Thread 8 checks grid 237 at time 02:23:54 and finds it valid
+Thread 8 checks grid 238 at time 02:23:54 and finds it valid
+Thread 8 checks grid 239 at time 02:23:54 and finds it valid
+Thread 8 checks grid 240 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 241 to grid 250 at time 02:23:54
+Thread 5 checks grid 241 at time 02:23:54 and finds it valid
+Thread 5 checks grid 242 at time 02:23:54 and finds it valid
+Thread 5 checks grid 243 at time 02:23:54 and finds it valid
+Thread 5 checks grid 244 at time 02:23:54 and finds it valid
+Thread 5 checks grid 245 at time 02:23:54 and finds it valid
+Thread 5 checks grid 246 at time 02:23:54 and finds it valid
+Thread 5 checks grid 247 at time 02:23:54 and finds it valid
+Thread 5 checks grid 248 at time 02:23:54 and finds it valid
+Thread 5 checks grid 249 at time 02:23:54 and finds it valid
+Thread 5 checks grid 250 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 261 to grid 270 at time 02:23:54
+Thread 7 checks grid 261 at time 02:23:54 and finds it valid
+Thread 7 checks grid 262 at time 02:23:54 and finds it valid
+Thread 7 checks grid 263 at time 02:23:54 and finds it valid
+Thread 7 checks grid 264 at time 02:23:54 and finds it valid
+Thread 7 checks grid 265 at time 02:23:54 and finds it valid
+Thread 7 checks grid 266 at time 02:23:54 and finds it valid
+Thread 7 checks grid 267 at time 02:23:54 and finds it valid
+Thread 7 checks grid 268 at time 02:23:54 and finds it valid
+Thread 7 checks grid 269 at time 02:23:54 and finds it valid
+Thread 7 checks grid 270 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 251 to grid 260 at time 02:23:54
+Thread 3 checks grid 251 at time 02:23:54 and finds it valid
+Thread 3 checks grid 252 at time 02:23:54 and finds it valid
+Thread 3 checks grid 253 at time 02:23:54 and finds it valid
+Thread 3 checks grid 254 at time 02:23:54 and finds it valid
+Thread 3 checks grid 255 at time 02:23:54 and finds it valid
+Thread 3 checks grid 256 at time 02:23:54 and finds it valid
+Thread 3 checks grid 257 at time 02:23:54 and finds it valid
+Thread 3 checks grid 258 at time 02:23:54 and finds it valid
+Thread 3 checks grid 259 at time 02:23:54 and finds it valid
+Thread 3 checks grid 260 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 221 to grid 230 at time 02:23:54
+Thread 6 checks grid 221 at time 02:23:54 and finds it valid
+Thread 6 checks grid 222 at time 02:23:54 and finds it valid
+Thread 6 checks grid 223 at time 02:23:54 and finds it valid
+Thread 6 checks grid 224 at time 02:23:54 and finds it valid
+Thread 6 checks grid 225 at time 02:23:54 and finds it valid
+Thread 6 checks grid 226 at time 02:23:54 and finds it valid
+Thread 6 checks grid 227 at time 02:23:54 and finds it valid
+Thread 6 checks grid 228 at time 02:53:54 and finds it valid
+Thread 6 checks grid 229 at time 02:23:54 and finds it valid
+Thread 6 checks grid 230 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 291 to grid 300 at time 02:23:54
+Thread 4 checks grid 291 at time 02:23:54 and finds it valid
+Thread 4 checks grid 292 at time 02:23:54 and finds it valid
+Thread 4 checks grid 293 at time 02:23:54 and finds it valid
+Thread 4 checks grid 294 at time 02:23:54 and finds it valid
+Thread 4 checks grid 295 at time 02:23:54 and finds it valid
+Thread 4 checks grid 296 at time 02:23:54 and finds it valid
+Thread 4 checks grid 297 at time 02:23:54 and finds it valid
+Thread 4 checks grid 298 at time 02:23:54 and finds it valid
+Thread 4 checks grid 299 at time 02:23:54 and finds it valid
+Thread 4 checks grid 300 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 301 to grid 310 at time 02:23:54
+Thread 8 checks grid 301 at time 02:23:54 and finds it valid
+Thread 8 checks grid 302 at time 02:23:54 and finds it valid
+Thread 8 checks grid 303 at time 02:23:54 and finds it valid
+Thread 8 checks grid 304 at time 02:23:54 and finds it valid
+Thread 8 checks grid 305 at time 02:23:54 and finds it valid
+Thread 8 checks grid 306 at time 02:23:54 and finds it valid
+Thread 8 checks grid 307 at time 02:23:54 and finds it valid
+Thread 8 checks grid 308 at time 02:23:54 and finds it valid
+Thread 8 checks grid 309 at time 02:23:54 and finds it valid
+Thread 8 checks grid 310 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 311 to grid 320 at time 02:23:54
+Thread 5 checks grid 311 at time 02:23:54 and finds it valid
+Thread 5 checks grid 312 at time 02:23:54 and finds it valid
+Thread 5 checks grid 313 at time 02:23:54 and finds it valid
+Thread 5 checks grid 314 at time 02:23:54 and finds it valid
+Thread 5 checks grid 315 at time 02:23:54 and finds it valid
+Thread 5 checks grid 316 at time 02:23:54 and finds it valid
+Thread 5 checks grid 317 at time 02:23:54 and finds it valid
+Thread 5 checks grid 318 at time 02:23:54 and finds it valid
+Thread 5 checks grid 319 at time 02:23:54 and finds it valid
+Thread 5 checks grid 320 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 331 to grid 340 at time 02:23:54
+Thread 3 checks grid 331 at time 02:23:54 and finds it valid
+Thread 3 checks grid 332 at time 02:23:54 and finds it valid
+Thread 3 checks grid 333 at time 02:23:54 and finds it valid
+Thread 3 checks grid 334 at time 02:23:54 and finds it valid
+Thread 3 checks grid 335 at time 02:23:54 and finds it valid
+Thread 3 checks grid 336 at time 02:23:54 and finds it valid
+Thread 3 checks grid 337 at time 02:23:54 and finds it valid
+Thread 3 checks grid 338 at time 02:23:54 and finds it valid
+Thread 3 checks grid 339 at time 02:23:54 and finds it valid
+Thread 3 checks grid 340 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 321 to grid 330 at time 02:23:54
+Thread 7 checks grid 321 at time 02:23:54 and finds it valid
+Thread 7 checks grid 322 at time 02:23:54 and finds it valid
+Thread 7 checks grid 323 at time 02:23:54 and finds it valid
+Thread 7 checks grid 324 at time 02:23:54 and finds it valid
+Thread 7 checks grid 325 at time 02:23:54 and finds it valid
+Thread 7 checks grid 326 at time 02:23:54 and finds it valid
+Thread 7 checks grid 327 at time 02:23:54 and finds it valid
+Thread 7 checks grid 328 at time 02:23:54 and finds it valid
+Thread 7 checks grid 329 at time 02:23:54 and finds it valid
+Thread 7 checks grid 330 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 341 to grid 350 at time 02:23:54
+Thread 6 checks grid 341 at time 02:23:54 and finds it valid
+Thread 6 checks grid 342 at time 02:23:54 and finds it valid
+Thread 6 checks grid 343 at time 02:23:54 and finds it valid
+Thread 6 checks grid 344 at time 02:23:54 and finds it valid
+Thread 6 checks grid 345 at time 02:23:54 and finds it valid
+Thread 6 checks grid 346 at time 02:23:54 and finds it valid
+Thread 6 checks grid 347 at time 02:23:54 and finds it valid
+Thread 6 checks grid 348 at time 02:23:54 and finds it valid
+Thread 6 checks grid 349 at time 02:23:54 and finds it valid
+Thread 6 checks grid 350 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs grid 271 to grid 280 at time 02:23:54
+Thread 2 checks grid 271 at time 02:23:54 and finds it valid
+Thread 2 checks grid 272 at time 02:23:54 and finds it valid
+Thread 2 checks grid 273 at time 02:23:54 and finds it valid
+Thread 2 checks grid 274 at time 02:23:54 and finds it valid
+Thread 2 checks grid 275 at time 02:23:54 and finds it valid
+Thread 2 checks grid 276 at time 02:23:54 and finds it valid
+Thread 2 checks grid 277 at time 02:23:54 and finds it valid
+Thread 2 checks grid 278 at time 02:23:54 and finds it valid
+Thread 2 checks grid 279 at time 02:23:54 and finds it valid
+Thread 2 checks grid 280 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 351 to grid 360 at time 02:23:54
+Thread 4 checks grid 351 at time 02:23:54 and finds it valid
+Thread 4 checks grid 352 at time 02:23:54 and finds it valid
+Thread 4 checks grid 353 at time 02:23:54 and finds it valid
+Thread 4 checks grid 354 at time 02:23:54 and finds it valid
+Thread 4 checks grid 355 at time 02:23:54 and finds it valid
+Thread 4 checks grid 356 at time 02:23:54 and finds it valid
+Thread 4 checks grid 357 at time 02:23:54 and finds it valid
+Thread 4 checks grid 358 at time 02:23:54 and finds it valid
+Thread 4 checks grid 359 at time 02:23:54 and finds it valid
+Thread 4 checks grid 360 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs grid 281 to grid 290 at time 02:23:54
+Thread 1 checks grid 281 at time 02:23:54 and finds it valid
+Thread 1 checks grid 282 at time 02:23:54 and finds it valid
+Thread 1 checks grid 283 at time 02:23:54 and finds it valid
+Thread 1 checks grid 284 at time 02:23:54 and finds it valid
+Thread 1 checks grid 285 at time 02:23:54 and finds it valid
+Thread 1 checks grid 286 at time 02:23:54 and finds it valid
+Thread 1 checks grid 287 at time 02:23:54 and finds it valid
+Thread 1 checks grid 288 at time 02:23:54 and finds it valid
+Thread 1 checks grid 289 at time 02:23:54 and finds it valid
+Thread 1 checks grid 290 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 361 to grid 370 at time 02:23:54
+Thread 8 checks grid 361 at time 02:23:54 and finds it valid
+Thread 8 checks grid 362 at time 20:23:54 and finds it valid
+Thread 8 checks grid 363 at time 02:23:54 and finds it valid
+Thread 8 checks grid 364 at time 02:23:54 and finds it valid
+Thread 8 checks grid 365 at time 02:53:54 and finds it valid
+Thread 8 checks grid 366 at time 02:23:54 and finds it valid
+Thread 8 checks grid 367 at time 02:23:54 and finds it valid
+Thread 8 checks grid 368 at time 02:23:54 and finds it valid
+Thread 8 checks grid 369 at time 02:23:54 and finds it valid
+Thread 8 checks grid 370 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 371 to grid 380 at time 02:23:54
+Thread 5 checks grid 371 at time 02:23:54 and finds it valid
+Thread 5 checks grid 372 at time 02:53:54 and finds it valid
+Thread 5 checks grid 373 at time 02:23:54 and finds it valid
+Thread 5 checks grid 374 at time 02:23:54 and finds it valid
+Thread 5 checks grid 375 at time 02:23:54 and finds it valid
+Thread 5 checks grid 376 at time 02:23:54 and finds it valid
+Thread 5 checks grid 377 at time 02:23:54 and finds it valid
+Thread 5 checks grid 378 at time 02:23:54 and finds it valid
+Thread 5 checks grid 379 at time 02:23:54 and finds it valid
+Thread 5 checks grid 380 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 381 to grid 390 at time 02:23:54
+Thread 3 checks grid 381 at time 02:23:54 and finds it valid
+Thread 3 checks grid 382 at time 02:23:54 and finds it valid
+Thread 3 checks grid 383 at time 02:23:54 and finds it valid
+Thread 3 checks grid 384 at time 02:23:54 and finds it valid
+Thread 3 checks grid 385 at time 02:23:54 and finds it valid
+Thread 3 checks grid 386 at time 02:23:54 and finds it valid
+Thread 3 checks grid 387 at time 02:23:54 and finds it valid
+Thread 3 checks grid 388 at time 02:23:54 and finds it valid
+Thread 3 checks grid 389 at time 02:23:54 and finds it valid
+Thread 3 checks grid 390 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 401 to grid 410 at time 02:23:54
+Thread 6 checks grid 401 at time 02:23:54 and finds it valid
+Thread 6 checks grid 402 at time 02:23:54 and finds it valid
+Thread 6 checks grid 403 at time 02:23:54 and finds it valid
+Thread 6 checks grid 404 at time 02:23:54 and finds it valid
+Thread 6 checks grid 405 at time 02:23:54 and finds it valid
+Thread 6 checks grid 406 at time 02:23:54 and finds it valid
+Thread 6 checks grid 407 at time 02:23:54 and finds it valid
+Thread 6 checks grid 408 at time 02:23:54 and finds it valid
+Thread 6 checks grid 409 at time 02:23:54 and finds it valid
+Thread 6 checks grid 410 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 391 to grid 400 at time 02:23:54
+Thread 7 checks grid 391 at time 02:23:54 and finds it valid
+Thread 7 checks grid 392 at time 02:23:54 and finds it valid
+Thread 7 checks grid 393 at time 02:23:54 and finds it valid
+Thread 7 checks grid 394 at time 02:23:54 and finds it valid
+Thread 7 checks grid 395 at time 02:23:54 and finds it valid
+Thread 7 checks grid 396 at time 02:23:54 and finds it valid
+Thread 7 checks grid 397 at time 02:23:54 and finds it valid
+Thread 7 checks grid 398 at time 02:23:54 and finds it valid
+Thread 7 checks grid 399 at time 02:23:54 and finds it valid
+Thread 7 checks grid 400 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 451 to grid 460 at time 02:23:54
+Thread 5 checks grid 451 at time 02:23:54 and finds it valid
+Thread 5 checks grid 452 at time 02:23:54 and finds it valid
+Thread 5 checks grid 453 at time 02:23:54 and finds it valid
+Thread 5 checks grid 454 at time 02:23:54 and finds it valid
+Thread 5 checks grid 455 at time 02:23:54 and finds it valid
+Thread 5 checks grid 456 at time 02:23:54 and finds it valid
+Thread 5 checks grid 457 at time 02:23:54 and finds it valid
+Thread 5 checks grid 458 at time 02:23:54 and finds it valid
+Thread 5 checks grid 459 at time 02:23:54 and finds it valid
+Thread 5 checks grid 460 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 431 to grid 440 at time 02:23:54
+Thread 4 checks grid 431 at time 02:23:54 and finds it valid
+Thread 4 checks grid 432 at time 02:23:54 and finds it valid
+Thread 4 checks grid 433 at time 02:23:54 and finds it valid
+Thread 4 checks grid 434 at time 02:23:54 and finds it valid
+Thread 4 checks grid 435 at time 02:23:54 and finds it valid
+Thread 4 checks grid 436 at time 02:23:54 and finds it valid
+Thread 4 checks grid 437 at time 02:23:54 and finds it valid
+Thread 4 checks grid 438 at time 02:23:54 and finds it valid
+Thread 4 checks grid 439 at time 02:23:54 and finds it valid
+Thread 4 checks grid 440 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 461 to grid 470 at time 02:23:54
+Thread 3 checks grid 461 at time 02:23:54 and finds it valid
+Thread 3 checks grid 462 at time 02:23:54 and finds it valid
+Thread 3 checks grid 463 at time 02:23:54 and finds it valid
+Thread 3 checks grid 464 at time 02:23:54 and finds it valid
+Thread 3 checks grid 465 at time 02:23:54 and finds it valid
+Thread 3 checks grid 466 at time 02:23:54 and finds it valid
+Thread 3 checks grid 467 at time 02:23:54 and finds it valid
+Thread 3 checks grid 468 at time 02:23:54 and finds it valid
+Thread 3 checks grid 469 at time 02:23:54 and finds it valid
+Thread 3 checks grid 470 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs grid 411 to grid 420 at time 02:23:54
+Thread 2 checks grid 411 at time 02:23:54 and finds it valid
+Thread 2 checks grid 412 at time 02:23:54 and finds it valid
+Thread 2 checks grid 413 at time 02:23:54 and finds it valid
+Thread 2 checks grid 414 at time 02:23:54 and finds it valid
+Thread 2 checks grid 415 at time 02:23:54 and finds it valid
+Thread 2 checks grid 416 at time 02:23:54 and finds it valid
+Thread 2 checks grid 417 at time 02:23:54 and finds it valid
+Thread 2 checks grid 418 at time 02:23:54 and finds it valid
+Thread 2 checks grid 419 at time 02:23:54 and finds it valid
+Thread 2 checks grid 420 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 481 to grid 490 at time 02:23:54
+Thread 5 checks grid 481 at time 02:23:54 and finds it valid
+Thread 5 checks grid 482 at time 02:23:54 and finds it valid
+Thread 5 checks grid 483 at time 02:23:54 and finds it valid
+Thread 5 checks grid 484 at time 02:23:54 and finds it valid
+Thread 5 checks grid 485 at time 02:23:54 and finds it valid
+Thread 5 checks grid 486 at time 02:23:54 and finds it valid
+Thread 5 checks grid 487 at time 02:23:54 and finds it valid
+Thread 5 checks grid 488 at time 02:23:54 and finds it valid
+Thread 5 checks grid 489 at time 02:23:54 and finds it valid
+Thread 5 checks grid 490 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs grid 421 to grid 430 at time 02:23:54
+Thread 1 checks grid 421 at time 02:23:54 and finds it valid
+Thread 1 checks grid 422 at time 02:23:54 and finds it valid
+Thread 1 checks grid 423 at time 02:23:54 and finds it valid
+Thread 1 checks grid 424 at time 02:23:54 and finds it valid
+Thread 1 checks grid 425 at time 02:23:54 and finds it valid
+Thread 1 checks grid 426 at time 02:23:54 and finds it valid
+Thread 1 checks grid 427 at time 02:23:54 and finds it valid
+Thread 1 checks grid 428 at time 02:23:54 and finds it valid
+Thread 1 checks grid 429 at time 02:23:54 and finds it valid
+Thread 1 checks grid 430 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 511 to grid 520 at time 02:23:54
+Thread 3 checks grid 511 at time 02:23:54 and finds it valid
+Thread 3 checks grid 512 at time 02:23:54 and finds it valid
+Thread 3 checks grid 513 at time 02:23:54 and finds it valid
+Thread 3 checks grid 514 at time 02:23:54 and finds it valid
+Thread 3 checks grid 515 at time 02:23:54 and finds it valid
+Thread 3 checks grid 516 at time 02:23:54 and finds it valid
+Thread 3 checks grid 517 at time 02:23:54 and finds it valid
+Thread 3 checks grid 518 at time 02:23:54 and finds it valid
+Thread 3 checks grid 519 at time 02:23:54 and finds it valid
+Thread 3 checks grid 520 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 471 to grid 480 at time 02:23:54
+Thread 6 checks grid 471 at time 02:23:54 and finds it valid
+Thread 6 checks grid 472 at time 02:23:54 and finds it valid
+Thread 6 checks grid 473 at time 02:23:54 and finds it valid
+Thread 6 checks grid 474 at time 02:23:54 and finds it valid
+Thread 6 checks grid 475 at time 02:23:54 and finds it valid
+Thread 6 checks grid 476 at time 02:23:54 and finds it valid
+Thread 6 checks grid 477 at time 02:23:54 and finds it valid
+Thread 6 checks grid 478 at time 02:23:54 and finds it valid
+Thread 6 checks grid 479 at time 02:23:54 and finds it valid
+Thread 6 checks grid 480 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 491 to grid 500 at time 02:23:54
+Thread 4 checks grid 491 at time 02:23:54 and finds it valid
+Thread 4 checks grid 492 at time 02:23:54 and finds it valid
+Thread 4 checks grid 493 at time 02:23:54 and finds it valid
+Thread 4 checks grid 494 at time 02:23:54 and finds it valid
+Thread 4 checks grid 495 at time 02:23:54 and finds it valid
+Thread 4 checks grid 496 at time 02:23:54 and finds it valid
+Thread 4 checks grid 497 at time 02:23:54 and finds it valid
+Thread 4 checks grid 498 at time 02:23:54 and finds it valid
+Thread 4 checks grid 499 at time 02:23:54 and finds it valid
+Thread 4 checks grid 500 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 531 to grid 540 at time 02:23:54
+Thread 5 checks grid 531 at time 02:23:54 and finds it valid
+Thread 5 checks grid 532 at time 02:23:54 and finds it valid
+Thread 5 checks grid 533 at time 02:23:54 and finds it valid
+Thread 5 checks grid 534 at time 02:23:54 and finds it valid
+Thread 5 checks grid 535 at time 02:23:54 and finds it valid
+Thread 5 checks grid 536 at time 20:53:54 and finds it valid
+Thread 5 checks grid 537 at time 02:23:54 and finds it valid
+Thread 5 checks grid 538 at time 02:23:54 and finds it valid
+Thread 5 checks grid 539 at time 02:23:54 and finds it valid
+Thread 5 checks grid 540 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 441 to grid 450 at time 02:23:54
+Thread 8 checks grid 441 at time 02:53:54 and finds it valid
+Thread 8 checks grid 442 at time 02:23:54 and finds it valid
+Thread 8 checks grid 443 at time 02:23:54 and finds it valid
+Thread 8 checks grid 444 at time 02:23:54 and finds it valid
+Thread 8 checks grid 445 at time 02:23:54 and finds it valid
+Thread 8 checks grid 446 at time 02:23:54 and finds it valid
+Thread 8 checks grid 447 at time 02:23:54 and finds it valid
+Thread 8 checks grid 448 at time 02:23:54 and finds it valid
+Thread 8 checks grid 449 at time 02:23:54 and finds it valid
+Thread 8 checks grid 450 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 541 to grid 550 at time 02:23:54
+Thread 3 checks grid 541 at time 02:23:54 and finds it valid
+Thread 3 checks grid 542 at time 02:23:54 and finds it valid
+Thread 3 checks grid 543 at time 02:23:54 and finds it valid
+Thread 3 checks grid 544 at time 02:23:54 and finds it valid
+Thread 3 checks grid 545 at time 02:23:54 and finds it valid
+Thread 3 checks grid 546 at time 02:23:54 and finds it valid
+Thread 3 checks grid 547 at time 02:23:54 and finds it valid
+Thread 3 checks grid 548 at time 02:23:54 and finds it valid
+Thread 3 checks grid 549 at time 02:23:54 and finds it valid
+Thread 3 checks grid 550 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 501 to grid 510 at time 02:23:54
+Thread 7 checks grid 501 at time 02:23:54 and finds it valid
+Thread 7 checks grid 502 at time 02:23:54 and finds it valid
+Thread 7 checks grid 503 at time 02:23:54 and finds it valid
+Thread 7 checks grid 504 at time 02:23:54 and finds it valid
+Thread 7 checks grid 505 at time 02:23:54 and finds it valid
+Thread 7 checks grid 506 at time 02:23:54 and finds it valid
+Thread 7 checks grid 507 at time 02:23:54 and finds it valid
+Thread 7 checks grid 508 at time 02:23:54 and finds it valid
+Thread 7 checks grid 509 at time 02:23:54 and finds it valid
+Thread 7 checks grid 510 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 02:23:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs grid 521 to grid 530 at time 02:23:54
+Thread 2 checks grid 521 at time 02:23:54 and finds it valid
+Thread 2 checks grid 522 at time 02:23:54 and finds it valid
+Thread 2 checks grid 523 at time 02:23:54 and finds it valid
+Thread 2 checks grid 524 at time 02:23:54 and finds it valid
+Thread 2 checks grid 525 at time 02:23:54 and finds it valid
+Thread 2 checks grid 526 at time 02:23:54 and finds it valid
+Thread 2 checks grid 527 at time 02:23:54 and finds it valid
+Thread 2 checks grid 528 at time 02:23:54 and finds it valid
+Thread 2 checks grid 529 at time 02:23:54 and finds it valid
+Thread 2 checks grid 530 at time 02:23:54 and finds it valid
+Thread 1 requests to enter CS at time 02:23:54
+Thread 1 enters CS at time 02:23:54
+Thread 1 exits CS at time 02:23:54
+Thread 1 grabs grid 561 to grid 570 at time 02:23:54
+Thread 1 checks grid 561 at time 02:23:54 and finds it valid
+Thread 1 checks grid 562 at time 02:23:54 and finds it valid
+Thread 1 checks grid 563 at time 02:23:54 and finds it valid
+Thread 1 checks grid 564 at time 02:23:54 and finds it valid
+Thread 1 checks grid 565 at time 02:23:54 and finds it valid
+Thread 1 checks grid 566 at time 02:23:54 and finds it valid
+Thread 1 checks grid 567 at time 02:23:54 and finds it valid
+Thread 1 checks grid 568 at time 02:23:54 and finds it valid
+Thread 1 checks grid 569 at time 02:23:54 and finds it valid
+Thread 1 checks grid 570 at time 02:23:54 and finds it valid
+Thread 2 requests to enter CS at time 20:53:54
+Thread 2 enters CS at time 02:23:54
+Thread 2 exits CS at time 02:23:54
+Thread 2 grabs grid 621 to grid 625 at time 02:23:54
+Thread 2 checks grid 621 at time 02:23:54 and finds it valid
+Thread 2 checks grid 622 at time 02:23:54 and finds it valid
+Thread 2 checks grid 623 at time 02:23:54 and finds it valid
+Thread 2 checks grid 624 at time 02:23:54 and finds it valid
+Thread 2 checks grid 625 at time 02:23:54 and finds it valid
+Thread 6 requests to enter CS at time 02:23:54
+Thread 6 enters CS at time 02:23:54
+Thread 6 exits CS at time 02:23:54
+Thread 6 grabs grid 551 to grid 560 at time 02:23:54
+Thread 6 checks grid 551 at time 02:23:54 and finds it valid
+Thread 6 checks grid 552 at time 02:23:54 and finds it valid
+Thread 6 checks grid 553 at time 02:23:54 and finds it valid
+Thread 6 checks grid 554 at time 02:23:54 and finds it valid
+Thread 6 checks grid 555 at time 02:23:54 and finds it valid
+Thread 6 checks grid 556 at time 02:23:54 and finds it valid
+Thread 6 checks grid 557 at time 02:23:54 and finds it valid
+Thread 6 checks grid 558 at time 02:23:54 and finds it valid
+Thread 6 checks grid 559 at time 02:23:54 and finds it valid
+Thread 6 checks grid 560 at time 02:23:54 and finds it valid
+Thread 5 requests to enter CS at time 02:23:54
+Thread 5 enters CS at time 02:23:54
+Thread 5 exits CS at time 02:23:54
+Thread 5 grabs grid 571 to grid 580 at time 02:23:54
+Thread 5 checks grid 571 at time 02:23:54 and finds it valid
+Thread 5 checks grid 572 at time 02:23:54 and finds it valid
+Thread 5 checks grid 573 at time 02:23:54 and finds it valid
+Thread 5 checks grid 574 at time 02:23:54 and finds it valid
+Thread 5 checks grid 575 at time 02:23:54 and finds it valid
+Thread 5 checks grid 576 at time 02:23:54 and finds it valid
+Thread 5 checks grid 577 at time 02:23:54 and finds it valid
+Thread 5 checks grid 578 at time 02:23:54 and finds it valid
+Thread 5 checks grid 579 at time 02:23:54 and finds it valid
+Thread 5 checks grid 580 at time 02:23:54 and finds it valid
+Thread 4 requests to enter CS at time 02:23:54
+Thread 4 enters CS at time 02:23:54
+Thread 4 exits CS at time 02:23:54
+Thread 4 grabs grid 581 to grid 590 at time 02:23:54
+Thread 4 checks grid 581 at time 02:23:54 and finds it valid
+Thread 4 checks grid 582 at time 02:23:54 and finds it valid
+Thread 4 checks grid 583 at time 02:23:54 and finds it valid
+Thread 4 checks grid 584 at time 02:23:54 and finds it valid
+Thread 4 checks grid 585 at time 02:23:54 and finds it valid
+Thread 4 checks grid 586 at time 02:23:54 and finds it valid
+Thread 4 checks grid 587 at time 02:23:54 and finds it valid
+Thread 4 checks grid 588 at time 02:23:54 and finds it valid
+Thread 4 checks grid 589 at time 02:23:54 and finds it valid
+Thread 4 checks grid 590 at time 02:23:54 and finds it valid
+Thread 3 requests to enter CS at time 02:23:54
+Thread 3 enters CS at time 02:23:54
+Thread 3 exits CS at time 02:23:54
+Thread 3 grabs grid 591 to grid 600 at time 02:23:54
+Thread 3 checks grid 591 at time 02:23:54 and finds it valid
+Thread 3 checks grid 592 at time 02:23:54 and finds it valid
+Thread 3 checks grid 593 at time 02:23:54 and finds it valid
+Thread 3 checks grid 594 at time 02:23:54 and finds it valid
+Thread 3 checks grid 595 at time 02:23:54 and finds it valid
+Thread 3 checks grid 596 at time 02:23:54 and finds it valid
+Thread 3 checks grid 597 at time 02:23:54 and finds it valid
+Thread 3 checks grid 598 at time 02:23:54 and finds it valid
+Thread 3 checks grid 599 at time 02:23:54 and finds it valid
+Thread 3 checks grid 600 at time 02:23:54 and finds it valid
+Thread 7 requests to enter CS at time 02:23:54
+Thread 7 enters CS at time 02:23:54
+Thread 7 exits CS at time 02:23:54
+Thread 7 grabs grid 601 to grid 610 at time 02:23:54
+Thread 7 checks grid 601 at time 02:23:54 and finds it valid
+Thread 7 checks grid 602 at time 02:23:54 and finds it valid
+Thread 7 checks grid 603 at time 02:23:54 and finds it valid
+Thread 7 checks grid 604 at time 02:23:54 and finds it valid
+Thread 7 checks grid 605 at time 02:23:54 and finds it valid
+Thread 7 checks grid 606 at time 02:23:54 and finds it valid
+Thread 7 checks grid 607 at time 02:23:54 and finds it valid
+Thread 7 checks grid 608 at time 02:23:54 and finds it valid
+Thread 7 checks grid 609 at time 02:23:54 and finds it valid
+Thread 7 checks grid 610 at time 02:23:54 and finds it valid
+Thread 8 requests to enter CS at time 02:23:54
+Thread 8 enters CS at time 02:23:54
+Thread 8 exits CS at time 02:23:54
+Thread 8 grabs grid 611 to grid 620 at time 02:23:54
+Thread 8 checks grid 611 at time 02:23:54 and finds it valid
+Thread 8 checks grid 612 at time 02:23:54 and finds it valid
+Thread 8 checks grid 613 at time 02:23:54 and finds it valid
+Thread 8 checks grid 614 at time 02:23:54 and finds it valid
+Thread 8 checks grid 615 at time 02:23:54 and finds it valid
+Thread 8 checks grid 616 at time 02:23:54 and finds it valid
+Thread 8 checks grid 617 at time 02:23:54 and finds it valid
+Thread 8 checks grid 618 at time 02:23:54 and finds it valid
+Thread 8 checks grid 619 at time 02:23:54 and finds it valid
+Thread 8 checks grid 620 at time 02:23:54 and finds it valid
